@@ -1,0 +1,15 @@
+{
+  "name": "village-api-fullstack",
+  "version": "1.0.0",
+  "description": "Full-stack Village API platform with React frontend",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install && cd ../demo-client && npm install",
+    "backend": "cd backend && node src/server.js",
+    "frontend": "cd frontend && npm run dev",
+    "demo": "cd demo-client && npm run dev",
+    "dev": "echo Run 'npm run backend' and 'npm run frontend' in separate terminals"
+  },
+  "keywords": ["village", "api", "india", "geography", "saas"],
+  "author": "",
+  "license": "MIT"
+}

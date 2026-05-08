@@ -1,0 +1,5358 @@
+subdistrict_code,subdistrict_name,district_code
+00083,Pangi,023
+00084,Chaurah,023
+00085,Saluni,023
+00086,Bhalai,023
+00087,Dalhousie,023
+00088,Bhattiyat,023
+00089,Sihunta,023
+00090,Chamba,023
+00091,Holi,023
+00092,Brahmaur,023
+00093,Nurpur,024
+00094,Indora,024
+00095,Fatehpur,024
+00096,Jawali,024
+00097,Harchakian,024
+00098,Shahpur,024
+00099,Dharmsala,024
+00100,Kangra,024
+00101,Nagrota Bagwan,024
+00102,Baroh,024
+00103,Dera Gopipur,024
+00104,Jawalamukhi,024
+00105,Jaswan,024
+00106,Rakkar,024
+00107,Khundian,024
+00108,Thural,024
+00109,Dhira,024
+00110,Jaisinghpur,024
+00111,Palampur,024
+00112,Baijnath,024
+00113,Multhan,024
+00114,Udaipur,025
+00115,Lahul,025
+00116,Spiti,025
+00117,Manali,026
+00118,Kullu,026
+00119,Sainj,026
+00120,Banjar,026
+00121,Ani,026
+00122,Nermand,026
+00123,Padhar,027
+00124,Jogindarnagar,027
+00125,Lad Bharol,027
+00126,Sandhol,027
+00127,Dharmpur,027
+00128,Kotli,027
+00129,Sarkaghat,027
+00130,Bhadrota,027
+00131,Baldwara,027
+00132,Sundarnagar,027
+00133,Mandi,027
+00134,Aut,027
+00135,Bali Chowki,027
+00136,Thunag,027
+00137,Chachyot,027
+00138,Nihri,027
+00139,Karsog,027
+00140,Tira Sujanpur,028
+00141,Nadaun,028
+00142,Galore,028
+00143,Hamirpur,028
+00144,Barsar,028
+00145,Dhatwal,028
+00146,Bhoranj,028
+00147,Bharwain,029
+00148,Amb,029
+00149,Bangana,029
+00150,Una,029
+00151,Haroli,029
+00152,Ghumarwin,030
+00153,Bharari,030
+00154,Jhanduta,030
+00155,Naina Devi,030
+00156,Bilaspur Sadar,030
+00157,Namhol,030
+00158,Arki,031
+00159,Darlaghat,031
+00160,Ramshahr,031
+00161,Nalagarh,031
+00162,Baddi,031
+00163,Krishangarh,031
+00164,Kasauli,031
+00165,Solan,031
+00166,Kandaghat,031
+00167,Rajgarh,032
+00168,Nohra,032
+00169,Pachhad,032
+00170,Renuka,032
+00171,Dadahu,032
+00172,Nahan,032
+00173,Paonta Sahib,032
+00174,Kamrau,032
+00175,Shalai,032
+00176,Ronhat,032
+00177,Rampur,033
+00178,Nankhari,033
+00179,Kumharsain,033
+00180,Seoni,033
+00181,Shimla   ( Rural ),033
+00183,Junga,033
+00184,Theog,033
+00185,Chaupal,033
+00186,Cheta,033
+00187,Nerua,033
+00188,Jubbal,033
+00189,Kotkhai,033
+00190,Tikar,033
+00191,Rohru,033
+00192,Chirgaon,033
+00193,Dodra Kwar,033
+00194,Hangrang,034
+00195,Poo,034
+00196,Morang,034
+00197,Kalpa,034
+00198,Nichar,034
+00199,Sangla,034
+00200,Dhar Kalan,035
+00201,Pathankot,035
+00202,Gurdaspur,035
+00203,Batala,035
+00204,Dera Baba Nanak,035
+00205,Bhulath,036
+00206,Kapurthala,036
+00207,Sultanpur Lodhi,036
+00208,Phagwara,036
+00209,Shahkot,037
+00210,Nakodar,037
+00211,Phillaur,037
+00212,Jalandhar - I,037
+00213,Jalandhar - Ii,037
+00214,Dasua,038
+00215,Mukerian,038
+00216,Hoshiarpur,038
+00217,Garhshankar,038
+00218,Nawanshahr,039
+00219,Balachaur,039
+00220,Bassi Pathana,040
+00221,Fatehgarh Sahib,040
+00222,Amloh,040
+00223,Khamanon,040
+00224,Samrala,041
+00225,Khanna,041
+00226,Payal,041
+00227,Ludhiana (East),041
+00228,Ludhiana (West),041
+00229,Raikot,041
+00230,Jagraon,041
+00231,Nihal Singhwala,042
+00232,Bagha Purana,042
+00233,Moga,042
+00234,Zira,043
+00235,Firozpur,043
+00236,Jalalabad,043
+00237,Fazilka,043
+00238,Abohar,043
+00239,Malout,044
+00240,Gidderbaha,044
+00241,Muktsar,044
+00242,Faridkot,045
+00243,Jaitu,045
+00244,Rampura Phul,046
+00245,Bathinda,046
+00246,Talwandi Sabo,046
+00247,Sardulgarh,047
+00248,Budhlada,047
+00249,Mansa,047
+00250,Samana,048
+00251,Patran,048
+00252,Nabha,048
+00253,Patiala,048
+00254,Rajpura,048
+00255,Ajnala,049
+00256,Amritsar -I,049
+00257,Amritsar- Ii,049
+00258,Baba Bakala,049
+00259,Tarn Taran,050
+00260,Patti,050
+00261,Khadur Sahib,050
+00262,Anandpur Sahib,051
+00263,Nangal,051
+00264,Rup Nagar,051
+00265,Chamkaur Sahib,051
+00266,Kharar,052
+00267,Sas Nagar (Mohali),052
+00268,Dera Bassi,052
+00269,Malerkotla,053
+00270,Dhuri,053
+00271,Sangrur,053
+00272,Sunam,053
+00273,Lehra,053
+00274,Moonak,053
+00275,Barnala,054
+00276,Tapa,054
+00356,Kalka,069
+00357,Panchkula,069
+00358,Naraingarh,070
+00359,Ambala,070
+00360,Barara,070
+00361,Jagadhri,071
+00362,Bilaspur,071
+00363,Chhachhrauli,071
+00364,Shahbad,072
+00365,Pehowa,072
+00366,Thanesar,072
+00367,Guhla,073
+00368,Kaithal,073
+00369,Fatehpur Pundri,073
+00370,Nilokheri,074
+00371,Indri,074
+00372,Karnal,074
+00373,Assandh,074
+00374,Gharaunda,074
+00375,Panipat,075
+00376,Israna,075
+00377,Samalkha,075
+00378,Gohana,076
+00379,Ganaur,076
+00380,Sonipat,076
+00381,Kharkhoda,076
+00382,Narwana,077
+00383,Jind,077
+00384,Julana,077
+00385,Safidon,077
+00386,Ratia,078
+00387,Tohana,078
+00388,Fatehabad,078
+00389,Dabwali,079
+00390,Sirsa,079
+00391,Rania,079
+00392,Ellenabad,079
+00393,Adampur,080
+00394,Hisar,080
+00395,Narnaund,080
+00396,Hansi,080
+00397,Bawani Khera,081
+00398,Bhiwani,081
+00399,Tosham,081
+00400,Siwani,081
+00401,Loharu,081
+00402,Dadri,081
+00403,Badhra,081
+00404,Maham,082
+00405,Rohtak,082
+00406,Sampla,082
+00407,Beri,083
+00408,Bahadurgarh,083
+00409,Jhajjar,083
+00410,Matenhail,083
+00411,Mahendragarh,084
+00412,Narnaul,084
+00413,Kosli,085
+00414,Rewari,085
+00415,Bawal,085
+00416,Pataudi,086
+00417,Gurgaon,086
+00418,Farrukhnagar,086
+00419,Manesar,086
+00420,Sohna,086
+00421,Taoru,087
+00422,Nuh,087
+00423,Ferozepur Jhirka,087
+00424,Punahana,087
+00425,Faridabad,088
+00426,Ballabgarh,088
+00427,Palwal,089
+00428,Hathin,089
+00429,Hodal,089
+00457,Karanpur,099
+00458,Ganganagar,099
+00459,Sadulshahar,099
+00460,Padampur,099
+00461,Raisinghnagar,099
+00462,Anupgarh,099
+00463,Gharsana,099
+00464,Vijainagar,099
+00465,Suratgarh,099
+00466,Sangaria,100
+00467,Tibi,100
+00468,Hanumangarh,100
+00469,Pilibanga,100
+00470,Rawatsar,100
+00471,Nohar,100
+00472,Bhadra,100
+00473,Bikaner,101
+00474,Poogal,101
+00475,Lunkaransar,101
+00476,Kolayat,101
+00477,Nokha,101
+00478,Khajuwala,101
+00479,Chhatargarh,101
+00480,Sridungargarh,101
+00481,Taranagar,102
+00482,Rajgarh,102
+00483,Sardarshahar,102
+00484,Churu,102
+00485,Ratangarh,102
+00486,Sujangarh,102
+00487,Jhunjhunun,103
+00488,Chirawa,103
+00489,Buhana,103
+00490,Khetri,103
+00491,Nawalgarh,103
+00492,Udaipurwati,103
+00493,Behror,104
+00494,Mandawar,104
+00495,Kotkasim,104
+00496,Tijara,104
+00497,Kishangarh Bas,104
+00498,Ramgarh,104
+00499,Alwar,104
+00500,Bansur,104
+00501,Thanagazi,104
+00502,Rajgarh,104
+00503,Lachhmangarh,104
+00504,Kathumar,104
+00505,Pahari,105
+00506,Kaman,105
+00507,Nagar,105
+00508,Deeg,105
+00509,Nadbai,105
+00510,Kumher,105
+00511,Bharatpur,105
+00512,Weir,105
+00513,Bayana,105
+00514,Rupbas,105
+00515,Baseri,106
+00516,Bari,106
+00517,Sepau,106
+00518,Dhaulpur,106
+00519,Rajakhera,106
+00520,Todabhim,107
+00521,Nadoti,107
+00522,Hindaun,107
+00523,Karauli,107
+00524,Mandrail,107
+00525,Sapotra,107
+00526,Gangapur,108
+00527,Bamanwas,108
+00528,Malarna Doongar,108
+00529,Bonli,108
+00530,Chauth Ka Barwara,108
+00531,Sawai Madhopur,108
+00532,Khandar,108
+00533,Baswa,109
+00534,Mahwa,109
+00535,Sikrai,109
+00536,Dausa,109
+00537,Lalsot,109
+00538,Kotputli,110
+00539,Viratnagar,110
+00540,Shahpura,110
+00541,Chomu,110
+00542,Phulera (Hq.Sambhar),110
+00543,Mauzamabad,110
+00544,Phagi,110
+00545,Sanganer,110
+00546,Jaipur,110
+00547,Amber,110
+00548,Jamwa Ramgarh,110
+00549,Bassi,110
+00550,Chaksu,110
+00551,Fatehpur,111
+00552,Lachhmangarh,111
+00553,Sikar,111
+00554,Danta Ramgarh,111
+00555,Sri Madhopur,111
+00556,Neem-Ka-Thana,111
+00557,Ladnu,112
+00558,Didwana,112
+00559,Jayal,112
+00560,Nagaur,112
+00561,Kheenvsar,112
+00562,Merta,112
+00563,Degana,112
+00564,Parbatsar,112
+00565,Makrana,112
+00566,Nawa,112
+00567,Phalodi,113
+00568,Osian,113
+00569,Bhopalgarh,113
+00570,Jodhpur,113
+00571,Shergarh,113
+00572,Luni,113
+00573,Bilara,113
+00574,Jaisalmer,114
+00575,Pokaran,114
+00576,Fatehgarh,114
+00577,Sheo,115
+00578,Baytoo,115
+00579,Pachpadra,115
+00580,Siwana,115
+00581,Gudha Malani,115
+00582,Barmer,115
+00583,Ramsar,115
+00584,Chohtan,115
+00585,Sayla,116
+00586,Ahore,116
+00587,Jalor,116
+00588,Bhinmal,116
+00589,Bagora,116
+00590,Sanchore,116
+00591,Raniwara,116
+00592,Sheoganj,117
+00593,Sirohi,117
+00594,Pindwara,117
+00595,Abu Road,117
+00596,Reodar,117
+00597,Jaitaran,118
+00598,Raipur,118
+00599,Sojat,118
+00600,Rohat,118
+00601,Pali,118
+00602,Marwar Junction,118
+00603,Desuri,118
+00604,Sumerpur,118
+00605,Bali,118
+00606,Kishangarh,119
+00607,Ajmer,119
+00608,Peesangan,119
+00609,Beawar,119
+00610,Masuda,119
+00611,Nasirabad,119
+00612,Bhinay,119
+00613,Sarwar,119
+00614,Kekri,119
+00615,Malpura,120
+00616,Peeplu,120
+00617,Niwai,120
+00618,Tonk,120
+00619,Todaraisingh,120
+00620,Deoli,120
+00621,Uniara,120
+00622,Hindoli,121
+00626,Bundi,121
+00623,Nainwa,121
+00624,Indragarh,121
+00625,Keshoraipatan,121
+00627,Asind,122
+00628,Hurda,122
+00629,Shahpura,122
+00630,Banera,122
+00631,Mandal,122
+00632,Raipur,122
+00633,Sahara,122
+00634,Bhilwara,122
+00635,Kotri,122
+00636,Jahazpur,122
+00637,Mandalgarh,122
+00638,Beejoliya,122
+00639,Bhim,123
+00640,Deogarh,123
+00641,Amet,123
+00642,Kumbhalgarh,123
+00643,Rajsamand,123
+00644,Railmagra,123
+00645,Nathdwara,123
+00646,Dungarpur,124
+00647,Aspur,124
+00648,Sagwara,124
+00649,Simalwara,124
+00650,Ghatol,125
+00651,Garhi,125
+00652,Banswara,125
+00653,Bagidora,125
+00654,Kushalgarh,125
+00655,Rashmi,126
+00656,Gangrar,126
+00657,Begun,126
+00658,Rawatbhata,126
+00659,Chittaurgarh,126
+00660,Kapasan,126
+00661,Dungla,126
+00662,Bhadesar,126
+00663,Nimbahera,126
+00664,Bari Sadri,126
+00665,Pipalda,127
+00666,Digod,127
+00667,Ladpura,127
+00668,Ramganj Mandi,127
+00669,Sangod,127
+00670,Mangrol,128
+00671,Antah,128
+00672,Baran,128
+00673,Atru,128
+00674,Kishanganj,128
+00675,Shahbad,128
+00676,Chhabra,128
+00677,Chhipabarod,128
+00678,Khanpur,129
+00679,Jhalrapatan,129
+00680,Aklera,129
+00681,Manohar Thana,129
+00682,Pachpahar,129
+00683,Pirawa,129
+00684,Gangdhar,129
+00685,Mavli,130
+00686,Gogunda,130
+00687,Kotra,130
+00688,Jhadol,130
+00689,Girwa,130
+00690,Vallabhnagar,130
+00691,Lasadiya,130
+00692,Salumbar,130
+00693,Sarada,130
+00694,Rishabhdeo,130
+00695,Kherwara,130
+00696,Dhariawad,131
+00697,Peepalkhoont,131
+00698,Chhoti Sadri,131
+00699,Pratapgarh,131
+00700,Arnod,131
+00701,Behat,132
+00702,Saharanpur,132
+00703,Nakur,132
+00704,Deoband,132
+00705,Rampur Maniharan,132
+00706,Kairana,133
+00707,Shamli,133
+00708,Muzaffarnagar,133
+00709,Budhana,133
+00710,Khatauli,133
+00711,Jansath,133
+00712,Najibabad,134
+00713,Bijnor,134
+00714,Nagina,134
+00715,Dhampur,134
+00716,Chandpur,134
+00717,Thakurdwara,135
+00718,Kanth,135
+00719,Moradabad,135
+00720,Bilari,135
+00721,Sambhal,135
+00722,Chandausi,135
+00723,Suar,136
+00724,Tanda,136
+00725,Bilaspur,136
+00726,Rampur,136
+00727,Shahabad,136
+00728,Milak,136
+00729,Dhanaura,137
+00730,Amroha,137
+00731,Hasanpur,137
+00732,Sardhana,138
+00733,Mawana,138
+00734,Meerut,138
+00735,Baraut,139
+00736,Baghpat,139
+00737,Khekada,139
+00738,Modinagar,140
+00739,Ghaziabad,140
+00740,Hapur,140
+00741,Garhmukteshwar,140
+00742,Dadri,141
+00743,Gautam Buddha Nagar,141
+00744,Jewar,141
+00745,Sikandrabad,142
+00746,Bulandshahr,142
+00747,Siana,142
+00748,Anupshahr,142
+00749,Debai,142
+00750,Shikarpur,142
+00751,Khurja,142
+00752,Khair,143
+00753,Gabhana,143
+00754,Atrauli,143
+00755,Koil,143
+00756,Iglas,143
+00757,Sasni,144
+00758,Sikandra Rao,144
+00759,Hathras,144
+00760,Sadabad,144
+00761,Chhata,145
+00762,Mat,145
+00763,Mahavan,145
+00764,Mathura,145
+00765,Etmadpur,146
+00766,Agra,146
+00767,Kiraoli,146
+00768,Kheragarh,146
+00769,Fatehabad,146
+00770,Bah,146
+00771,Tundla,147
+00772,Firozabad,147
+00773,Jasrana,147
+00774,Shikohabad,147
+00775,Mainpuri,148
+00776,Karhal,148
+00777,Bhogaon,148
+00778,Gunnaur,149
+00779,Bisauli,149
+00780,Bilsi,149
+00781,Sahaswan,149
+00782,Budaun,149
+00783,Dataganj,149
+00784,Baheri,150
+00785,Meerganj,150
+00786,Aonla,150
+00787,Bareilly,150
+00788,Nawabganj,150
+00789,Faridpur,150
+00790,Pilibhit,151
+00791,Bisalpur,151
+00792,Puranpur,151
+00793,Powayan,152
+00794,Tilhar,152
+00795,Shahjahanpur,152
+00796,Jalalabad,152
+00797,Nighasan,153
+00798,Palia,153
+00799,Gola Gokaran Nath,153
+00800,Mohammdi,153
+00801,Lakhimpur,153
+00802,Dhaurahara,153
+00803,Misrikh,154
+00804,Sitapur,154
+00805,Laharpur,154
+00806,Biswan,154
+00807,Mahmudabad,154
+00808,Sidhauli,154
+00809,Shahabad,155
+00810,Sawayajpur,155
+00811,Hardoi,155
+00812,Bilgram,155
+00813,Sandila,155
+00814,Safipur,156
+00815,Hasanganj,156
+00816,Unnao,156
+00817,Purwa,156
+00818,Bighapur,156
+00819,Malihabad,157
+00820,Bakshi Ka Talab,157
+00821,Lucknow,157
+00822,Mohanlalganj,157
+00823,Maharajganj,158
+00824,Tiloi,158
+00825,Rae Bareli,158
+00826,Lalganj,158
+00827,Dalmau,158
+00828,Unchahar,158
+00829,Salon,158
+00830,Kaimganj,159
+00831,Amritpur,159
+00832,Farrukhabad,159
+00833,Chhibramau,160
+00834,Kannauj,160
+00835,Tirwa,160
+00836,Jaswantnagar,161
+00837,Saifai,161
+00838,Etawah,161
+00839,Bharthana,161
+00840,Chakarnagar,161
+00841,Bidhuna,162
+00842,Auraiya,162
+00843,Rasulabad,163
+00844,Derapur,163
+00845,Akbarpur,163
+00846,Bhognipur,163
+00847,Sikandra,163
+00848,Bilhaur,164
+00849,Kanpur,164
+00850,Ghatampur,164
+00851,Madhogarh,165
+00852,Jalaun,165
+00853,Kalpi,165
+00854,Orai,165
+00855,Konch,165
+00856,Moth,166
+00857,Garautha,166
+00858,Tahrauli,166
+00859,Mauranipur,166
+00860,Jhansi,166
+00861,Talbehat,167
+00862,Lalitpur,167
+00863,Mahroni,167
+00864,Hamirpur,168
+00865,Rath,168
+00866,Sarila,168
+00867,Maudaha,168
+00868,Kulpahar,169
+00869,Charkhari,169
+00870,Mahoba,169
+00871,Banda,170
+00872,Baberu,170
+00873,Atarra,170
+00874,Naraini,170
+00875,Karwi,171
+00876,Mau,171
+00877,Bindki,172
+00878,Fatehpur,172
+00879,Khaga,172
+00880,Lalganj,173
+00881,Kunda,173
+00882,Pratapgarh,173
+00883,Patti,173
+00884,Raniganj,173
+00885,Sirathu,174
+00886,Manjhanpur,174
+00887,Chail,174
+00888,Soraon,175
+00889,Phulpur,175
+00890,Allahabad,175
+00891,Bara,175
+00892,Karchhana,175
+00893,Handia,175
+00894,Meja,175
+00895,Koraon,175
+00896,Fatehpur,176
+00897,Ramnagar,176
+00898,Nawabganj,176
+00899,Sirauli Gauspur,176
+00900,Ramsanehighat,176
+00901,Haidergarh,176
+00902,Rudauli,177
+00903,Milkipur,177
+00904,Sohawal,177
+00905,Faizabad,177
+00906,Bikapur,177
+00907,Tanda,178
+00908,Allapur,178
+00909,Jalalpur,178
+00910,Akbarpur,178
+00911,Bhiti,178
+00912,Musafirkhana,179
+00913,Gauriganj,179
+00914,Amethi,179
+00915,Sultanpur,179
+00916,Jaisinghpur,179
+00917,Lambhua,179
+00918,Kadipur,179
+00919,Nanpara,180
+00920,Mahasi,180
+00921,Bahraich,180
+00922,Kaiserganj,180
+00923,Bhinga,181
+00924,Ikauna,181
+00925,Balrampur,182
+00926,Tulsipur,182
+00927,Utraula,182
+00928,Gonda,183
+00929,Colonelganj,183
+00930,Tarabganj,183
+00931,Mankapur,183
+00932,Shohratgarh,184
+00933,Naugarh,184
+00934,Bansi,184
+00935,Itwa,184
+00936,Domariyaganj,184
+00937,Bhanpur,185
+00938,Harraiya,185
+00939,Basti,185
+00940,Rudhauli,185
+00941,Mehdawal,186
+00942,Khalilabad,186
+00943,Ghanghata,186
+00944,Nautanwa,187
+00945,Nichlaul,187
+00946,Pharenda,187
+00947,Maharajganj,187
+00948,Campierganj,188
+00949,Sahjanwa,188
+00950,Gorakhpur,188
+00951,Chauri Chaura,188
+00952,Bansgaon,188
+00953,Khajni,188
+00954,Gola,188
+00955,Padrauna,189
+00956,Hata,189
+00957,Kasya,189
+00958,Tamkuhi Raj,189
+00959,Deoria,190
+00960,Rudrapur,190
+00961,Barhaj,190
+00962,Salempur,190
+00963,Bhatpar Rani,190
+00964,Burhanpur,191
+00965,Sagri,191
+00966,Azamgarh,191
+00967,Nizamabad,191
+00968,Phulpur,191
+00969,Lalganj,191
+00970,Mehnagar,191
+00971,Ghosi,192
+00972,Madhuban,192
+00973,Maunath Bhanjan,192
+00974,Muhammadabad Gohna,192
+00975,Belthara Road,193
+00976,Sikanderpur,193
+00977,Rasra,193
+00978,Ballia,193
+00979,Bansdih,193
+00980,Bairia,193
+00981,Shahganj,194
+00982,Badlapur,194
+00983,Machhlishahr,194
+00984,Jaunpur,194
+00985,Mariahu,194
+00986,Kerakat,194
+00987,Jakhania,195
+00988,Saidpur,195
+00989,Ghazipur,195
+00990,Mohammadabad,195
+00991,Zamania,195
+00992,Sakaldiha,196
+00993,Chandauli,196
+00994,Chakia,196
+00995,Pindra,197
+00996,Varanasi,197
+00997,Bhadohi,198
+00998,Gyanpur,198
+00999,Aurai,198
+01000,Mirzapur,199
+01001,Lalganj,199
+01002,Marihan,199
+01003,Chunar,199
+01004,Ghorawal,200
+01005,Robertsganj,200
+01006,Dudhi,200
+01007,Aliganj,201
+01008,Etah,201
+01009,Jalesar,201
+01010,Kasganj,202
+01011,Sahawar,202
+01012,Patiyali,202
+01013,Sidhaw,203
+01014,Ramnagar,203
+01015,Gaunaha,203
+01016,Mainatanr,203
+01017,Narkatiaganj,203
+01018,Lauriya,203
+01019,Bagaha,203
+01020,Piprasi,203
+01021,Madhubani,203
+01022,Bhitaha,203
+01023,Thakrahan,203
+01024,Jogapatti,203
+01025,Chanpatia,203
+01026,Sikta,203
+01027,Majhaulia,203
+01028,Bettiah,203
+01029,Bairia,203
+01030,Nautan,203
+01031,Raxaul,204
+01032,Adapur,204
+01033,Ramgarhwa,204
+01034,Sugauli,204
+01035,Banjaria,204
+01036,Narkatia,204
+01037,Bankatwa,204
+01038,Ghorasahan,204
+01039,Dhaka,204
+01040,Chiraia,204
+01041,Motihari,204
+01042,Turkaulia,204
+01043,Harsidhi,204
+01044,Paharpur,204
+01045,Areraj,204
+01046,Sangrampur,204
+01047,Kesaria,204
+01048,Kalyanpur,204
+01049,Kotwa,204
+01050,Piprakothi,204
+01051,Chakia(Pipra),204
+01052,Pakri Dayal,204
+01053,Patahi,204
+01054,Phenhara,204
+01055,Madhuban,204
+01056,Tetaria,204
+01057,Mehsi,204
+01058,Purnahiya,205
+01059,Piprarhi,205
+01060,Sheohar,205
+01061,Dumri Katsari,205
+01062,Tariani Chowk,205
+01063,Bairgania,206
+01064,Suppi,206
+01065,Majorganj,206
+01066,Sonbarsa,206
+01067,Parihar,206
+01068,Sursand,206
+01069,Bathnaha,206
+01070,Riga,206
+01071,Parsauni,206
+01072,Belsand,206
+01073,Runisaidpur,206
+01074,Dumra,206
+01075,Bajpatti,206
+01076,Charaut,206
+01077,Pupri,206
+01078,Nanpur,206
+01079,Bokhara,206
+01080,Madhwapur,207
+01081,Harlakhi,207
+01082,Basopatti,207
+01083,Jainagar,207
+01084,Ladania,207
+01085,Laukaha,207
+01086,Laukahi,207
+01087,Phulparas,207
+01088,Babubarhi,207
+01089,Khajauli,207
+01090,Kaluahi,207
+01091,Benipatti,207
+01092,Bisfi,207
+01093,Madhubani,207
+01094,Pandaul,207
+01095,Rajnagar,207
+01096,Andhratharhi,207
+01097,Jhanjharpur,207
+01098,Ghoghardiha,207
+01099,Lakhnaur,207
+01100,Madhepur,207
+01101,Nirmali,208
+01102,Basantpur,208
+01103,Chhatapur,208
+01104,Pratapganj,208
+01105,Raghopur,208
+01106,Saraigarh Bhaptiyahi,208
+01107,Kishanpur,208
+01108,Marauna,208
+01109,Supaul,208
+01110,Pipra,208
+01111,Tribeniganj,208
+01112,Narpatganj,209
+01113,Forbesganj,209
+01114,Bhargama,209
+01115,Raniganj,209
+01116,Araria,209
+01117,Kursakatta,209
+01118,Sikti,209
+01119,Palasi,209
+01120,Jokihat,209
+01121,Terhagachh,210
+01122,Dighalbank,210
+01123,Thakurganj,210
+01124,Pothia,210
+01125,Bahadurganj,210
+01126,Kochadhamin,210
+01127,Kishanganj,210
+01128,Banmankhi,211
+01129,Barhara,211
+01130,Bhawanipur,211
+01131,Rupauli,211
+01132,Dhamdaha,211
+01133,Krityanand Nagar,211
+01134,Purnia East,211
+01135,Kasba,211
+01136,Srinagar,211
+01137,Jalalgarh,211
+01138,Amour,211
+01139,Baisa,211
+01140,Baisi,211
+01141,Dagarua,211
+01142,Falka,212
+01143,Korha,212
+01144,Hasanganj,212
+01145,Kadwa,212
+01146,Balrampur,212
+01147,Barsoi,212
+01148,Azamnagar,212
+01149,Pranpur,212
+01150,Dandkhora,212
+01151,Katihar,212
+01152,Mansahi,212
+01153,Barari,212
+01154,Sameli,212
+01155,Kursela,212
+01156,Manihari,212
+01157,Amdabad,212
+01158,Gamharia,213
+01159,Singheshwar,213
+01160,Ghailarh,213
+01161,Madhepura,213
+01162,Shankarpur,213
+01163,Kumarkhand,213
+01164,Murliganj,213
+01165,Gwalpara,213
+01166,Bihariganj,213
+01167,Kishanganj,213
+01168,Puraini,213
+01169,Alamnagar,213
+01170,Chausa,213
+01171,Nauhatta,214
+01172,Satar Kataiya,214
+01173,Mahishi,214
+01174,Kahara,214
+01175,Saur Bazar,214
+01176,Patarghat,214
+01177,Sonbarsa,214
+01178,Simri Bakhtiarpur,214
+01179,Salkhua,214
+01180,Banma Itahri,214
+01181,Jale,215
+01182,Singhwara,215
+01183,Keotiranway,215
+01184,Darbhanga,215
+01185,Manigachhi,215
+01186,Tardih,215
+01187,Alinagar,215
+01188,Benipur,215
+01189,Bahadurpur,215
+01190,Hanumannagar,215
+01191,Hayaghat,215
+01192,Baheri,215
+01193,Biraul,215
+01194,Ghanshyampur,215
+01195,Kiratpur,215
+01196,Gora Bauram,215
+01197,Kusheshwar Asthan,215
+01198,Kusheshwar Asthan Purbi,215
+01199,Sahebganj,216
+01200,Baruraj (Motipur),216
+01201,Paroo,216
+01202,Saraiya,216
+01203,Marwan,216
+01204,Kanti,216
+01205,Minapur,216
+01206,Bochaha,216
+01207,Aurai,216
+01208,Katra,216
+01209,Gaighat,216
+01210,Bandra,216
+01211,Dholi (Moraul),216
+01212,Musahri,216
+01213,Kurhani,216
+01214,Sakra,216
+01215,Katiya,217
+01216,Bijaipur,217
+01217,Bhorey,217
+01218,Pach Deuri,217
+01219,Kuchaikote,217
+01220,Phulwaria,217
+01221,Hathua,217
+01222,Uchkagaon,217
+01223,Thawe,217
+01224,Gopalganj,217
+01225,Manjha,217
+01226,Barauli,217
+01227,Sidhwalia,217
+01228,Baikunthpur,217
+01229,Nautan,218
+01230,Siwan,218
+01231,Barharia,218
+01232,Goriakothi,218
+01233,Lakri Nabiganj,218
+01234,Basantpur,218
+01235,Bhagwanpur Hat,218
+01236,Maharajganj,218
+01237,Pachrukhi,218
+01238,Hussainganj,218
+01239,Ziradei,218
+01240,Mairwa,218
+01241,Guthani,218
+01242,Darauli,218
+01243,Andar,218
+01244,Raghunathpur,218
+01245,Hasanpura,218
+01246,Daraundha,218
+01247,Siswan,218
+01248,Mashrakh,219
+01249,Panapur,219
+01250,Taraiya,219
+01251,Ishupur,219
+01252,Baniapur,219
+01253,Lahladpur,219
+01254,Ekma,219
+01255,Manjhi,219
+01256,Jalalpur,219
+01257,Revelganj,219
+01258,Chapra,219
+01259,Nagra,219
+01260,Marhaura,219
+01261,Amnour,219
+01262,Maker,219
+01263,Parsa,219
+01264,Dariapur,219
+01265,Garkha,219
+01266,Dighwara,219
+01267,Sonepur,219
+01268,Vaishali,220
+01269,Paterhi Belsar,220
+01270,Lalganj,220
+01271,Bhagwanpur,220
+01272,Goraul,220
+01273,Chehra Kalan,220
+01274,Patepur,220
+01275,Mahua,220
+01276,Jandaha,220
+01277,Raja Pakar,220
+01278,Hajipur,220
+01279,Raghopur,220
+01280,Bidupur,220
+01281,Desri,220
+01282,Sahdai Buzurg,220
+01283,Mahnar,220
+01284,Kalyanpur,221
+01285,Warisnagar,221
+01286,Shivaji Nagar,221
+01287,Khanpur,221
+01288,Samastipur,221
+01289,Pusa,221
+01290,Tajpur,221
+01291,Morwa,221
+01292,Patori,221
+01293,Mohanpur,221
+01294,Mohiuddinagar,221
+01295,Sarairanjan,221
+01296,Vidyapati Nagar,221
+01297,Dalsinghsarai,221
+01298,Ujiarpur,221
+01299,Bibhutpur,221
+01300,Rosera,221
+01301,Singhia,221
+01302,Hasanpur,221
+01303,Bithan,221
+01304,Khudabandpur,222
+01305,Chhorahi,222
+01306,Garhpura,222
+01307,Cheria Bariarpur,222
+01308,Bhagwanpur,222
+01309,Mansurchak,222
+01310,Bachhwara,222
+01311,Teghra,222
+01312,Barauni,222
+01313,Birpur,222
+01314,Begusarai,222
+01315,Naokothi,222
+01316,Bakhri,222
+01317,Dandari,222
+01318,Sahebpur Kamal,222
+01319,Balia,222
+01320,Matihani,222
+01321,Shamho Akha Kurha,222
+01322,Alauli,223
+01323,Khagaria,223
+01324,Mansi,223
+01325,Chautham,223
+01326,Beldaur,223
+01327,Gogri,223
+01328,Parbatta,223
+01329,Narayanpur,224
+01330,Bihpur,224
+01331,Kharik,224
+01332,Naugachhia,224
+01333,Rangra Chowk,224
+01334,Gopalpur,224
+01335,Pirpainti,224
+01336,Colgong,224
+01337,Ismailpur,224
+01338,Sabour,224
+01339,Nathnagar,224
+01340,Sultanganj,224
+01341,Shahkund,224
+01342,Goradih,224
+01343,Jagdishpur,224
+01344,Sonhaula,224
+01345,Shambhuganj,225
+01346,Amarpur,225
+01347,Rajaun,225
+01348,Dhuraiya,225
+01349,Barahat,225
+01350,Banka,225
+01351,Phulidumar,225
+01352,Belhar,225
+01353,Chanan,225
+01354,Katoria,225
+01355,Bausi,225
+01356,Munger,226
+01357,Bariarpur,226
+01358,Jamalpur,226
+01359,Dharhara,226
+01360,Kharagpur,226
+01361,Asarganj,226
+01362,Tarapur,226
+01363,Tetiha Bambor,226
+01364,Sangrampur,226
+01365,Barahiya,227
+01366,Pipariya,227
+01367,Surajgarha,227
+01368,Lakhisarai,227
+01369,Chanan*,227
+01370,Ramgarh Chowk,227
+01371,Halsi,227
+01372,Barbigha,228
+01373,Shekhopur Sarai,228
+01374,Sheikhpura,228
+01375,Ghat Kusumbha,228
+01376,Chewara,228
+01377,Ariari,228
+01378,Karai Parsurai,229
+01379,Nagar Nausa,229
+01380,Harnaut,229
+01381,Chandi,229
+01382,Rahui,229
+01383,Bind,229
+01384,Sarmera,229
+01385,Asthawan,229
+01386,Bihar,229
+01387,Noorsarai,229
+01388,Tharthari,229
+01389,Parbalpur,229
+01390,Hilsa,229
+01391,Ekangarsarai,229
+01392,Islampur,229
+01393,Ben,229
+01394,Rajgir,229
+01395,Silao,229
+01396,Giriak,229
+01397,Katrisarai,229
+01398,Maner,230
+01399,Dinapur-Cum-Khagaul,230
+01400,Patna Rural,230
+01401,Sampatchak,230
+01402,Phulwari,230
+01403,Bihta,230
+01404,Naubatpur,230
+01405,Bikram,230
+01406,Dulhin Bazar,230
+01407,Paliganj,230
+01408,Masaurhi,230
+01409,Dhanarua,230
+01410,Punpun,230
+01411,Fatwah,230
+01412,Daniawan,230
+01413,Khusrupur,230
+01414,Bakhtiarpur,230
+01415,Athmalgola,230
+01416,Belchhi,230
+01417,Barh,230
+01418,Pandarak,230
+01419,Ghoswari,230
+01420,Mokameh,230
+01421,Shahpur,231
+01422,Arrah,231
+01423,Barhara,231
+01424,Koilwar,231
+01425,Sandesh,231
+01426,Udwant Nagar,231
+01427,Behea,231
+01428,Jagdishpur,231
+01429,Piro,231
+01430,Charpokhari,231
+01431,Garhani,231
+01432,Agiaon,231
+01433,Tarari,231
+01434,Sahar,231
+01435,Simri,232
+01436,Chakki,232
+01437,Barhampur,232
+01438,Chaugain,232
+01439,Kesath,232
+01440,Dumraon,232
+01441,Buxar,232
+01442,Chausa,232
+01443,Rajpur,232
+01444,Itarhi,232
+01445,Nawanagar,232
+01446,Ramgarh,233
+01447,Nuaon,233
+01448,Kudra,233
+01449,Mohania,233
+01450,Durgawati,233
+01451,Chand,233
+01452,Chainpur,233
+01453,Bhabua,233
+01454,Rampur,233
+01455,Bhagwanpur,233
+01456,Adhaura,233
+01457,Kochas,234
+01458,Dinara,234
+01459,Dawath,234
+01460,Suryapura,234
+01461,Bikramganj,234
+01462,Karakat,234
+01463,Nasriganj,234
+01464,Rajpur,234
+01465,Sanjhauli,234
+01466,Nokha,234
+01467,Kargahar,234
+01468,Chenari,234
+01469,Nauhatta,234
+01470,Sheosagar,234
+01471,Sasaram,234
+01472,Akorhi Gola,234
+01473,Dehri,234
+01474,Tilouthu,234
+01475,Rohtas,234
+01476,Daudnagar,235
+01477,Haspura,235
+01478,Goh,235
+01479,Rafiganj,235
+01480,Obra,235
+01481,Aurangabad,235
+01482,Barun,235
+01483,Nabinagar,235
+01484,Kutumba,235
+01485,Deo,235
+01486,Madanpur,235
+01487,Konch,236
+01488,Tikari,236
+01489,Belaganj,236
+01490,Khizirsarai,236
+01491,Neem Chak Bathani,236
+01492,Muhra,236
+01493,Atri,236
+01494,Manpur,236
+01495,Gaya Town C.D.Block,236
+01496,Paraiya,236
+01497,Guraru,236
+01498,Gurua,236
+01499,Amas,236
+01500,Banke Bazar,236
+01501,Imamganj,236
+01502,Dumaria,236
+01503,Sherghati,236
+01504,Dobhi,236
+01505,Bodh Gaya,236
+01506,Tan Kuppa,236
+01507,Wazirganj,236
+01508,Fatehpur,236
+01509,Mohanpur,236
+01510,Barachatti,236
+01511,Nardiganj,237
+01512,Nawada,237
+01513,Warisaliganj,237
+01514,Kashi Chak,237
+01515,Pakribarawan,237
+01516,Kawakol,237
+01517,Roh,237
+01518,Gobindpur,237
+01519,Akbarpur,237
+01520,Hisua,237
+01521,Narhat,237
+01522,Meskaur,237
+01523,Sirdala,237
+01524,Rajauli,237
+01525,Islamnagar Aliganj,238
+01526,Sikandra,238
+01527,Jamui,238
+01528,Barhat,238
+01529,Lakshmipur,238
+01530,Jhajha,238
+01531,Gidhaur,238
+01532,Khaira,238
+01533,Sono,238
+01534,Chakai,238
+01535,Ratni Faridpur,239
+01536,Jehanabad,239
+01537,Kako,239
+01538,Modanganj,239
+01539,Ghoshi,239
+01540,Makhdumpur,239
+01541,Hulasganj,239
+01542,Arwal,240
+01543,Kaler,240
+01544,Karpi,240
+01545,Sonbhadra Banshi Suryapur,240
+01546,Kurtha,240
+01547,Chungthang,241
+01548,Mangan,241
+01549,Gyalshing,242
+01550,Soreng,242
+01551,Namchi,243
+01552,Ravong,243
+01553,Gangtok,244
+01554,Pakyong,244
+01555,Rongli,244
+01556,Zemithang,245
+01557,Lumla,245
+01558,Dudunghar,245
+01559,Tawang,245
+01560,Kitpi,245
+01561,Jang,245
+01562,Lhou,245
+01563,Mukto,245
+01564,Bongkhar,245
+01565,Thingbu,245
+01566,Dirang,246
+01567,Thembang,246
+01568,Nafra,246
+01569,Bomdila,246
+01570,Kalaktang,246
+01571,Shergaon,246
+01572,Rupa,246
+01573,Singchung,246
+01574,Jamiri,246
+01575,Thrizino,246
+01576,Bhalukpong,246
+01577,Kamengbari-Doimara,246
+01578,Balemu,246
+01579,Seijosa,247
+01580,Dissing-Passo,247
+01581,Pakke-Kessang,247
+01582,Pizirang(Veo),247
+01583,Richukrong,247
+01584,Seppa,247
+01585,Lada,247
+01586,Bameng,247
+01587,Pipu-Dipu,247
+01588,Gyawe Purang,247
+01589,Khenewa,247
+01590,Chayangtajo,247
+01591,Sawa,247
+01592,Balijan,248
+01593,Banderdawa,248
+01594,Sangdupota (Besar Nello),248
+01595,Taraso,248
+01596,Itanagar,248
+01597,Naharlagun,248
+01598,Doimukh,248
+01599,Gumto,248
+01600,Toru,248
+01601,Sagalee,248
+01602,Parang,248
+01603,Leporiang,248
+01604,Mengio,248
+01605,Kimin,248
+01606,Kakoi,248
+01607,Taksing,249
+01608,Limeking,249
+01609,Nacho,249
+01610,Siyum,249
+01611,Taliha,249
+01612,Payeng,249
+01613,Giba,249
+01614,Chetam (Peer Yapu),249
+01615,Daporijo,249
+01616,Puchi Geko,249
+01617,Dumporijo,249
+01618,Gussar,249
+01619,Gite-Ripa,249
+01620,Baririjo,249
+01621,Maro,249
+01622,Mechuka,250
+01623,Monigong,250
+01624,Pidi,250
+01625,Payum,250
+01626,Tato,250
+01627,Kaying,250
+01628,Darak,250
+01629,Kamba,250
+01630,Rumgong,250
+01631,Jomlo Mobuk,250
+01632,Liromoba,250
+01633,Yomcha,250
+01634,Aalo,250
+01635,Tirbin,250
+01636,Basar,250
+01637,Daring,250
+01638,Gensi,250
+01639,Sibe,250
+01640,Likabali,250
+01641,Kangku,250
+01642,Bagra,250
+01643,Boleng,251
+01644,Riga,251
+01645,Pangin,251
+01646,Kebang,251
+01647,Rebo-Perging,251
+01648,Koyu,251
+01649,Kora,251
+01650,Nari,251
+01651,New Seren,251
+01652,Bilat,251
+01653,Ruksin,251
+01654,Sille-Oyan,251
+01655,Pasighat,251
+01656,Mebo,251
+01657,Namsing,251
+01658,Tuting,252
+01659,Migging,252
+01660,Palling,252
+01661,Gelling,252
+01662,Singa,252
+01663,Yingkiong,252
+01664,Jengging,252
+01665,Geku,252
+01666,Mariyang,252
+01667,Mopom ( Adipasi ),252
+01668,Katan,252
+01669,Khimiyong,253
+01670,Yatdam,253
+01671,Changlang,253
+01672,Namtok,253
+01673,Manmao,253
+01674,Renuk,253
+01675,Lyngok-Longtoi,253
+01676,Nampong,253
+01677,Tikhak Rima Putok,253
+01678,Jairampur,253
+01679,Vijoynagar,253
+01680,Miao,253
+01681,Kharsang,253
+01682,Diyun,253
+01683,Bordumsa,253
+01684,Namsang,254
+01685,Soha,254
+01686,Khonsa,254
+01687,Dadam,254
+01688,Kanubari,254
+01689,Lawnu,254
+01690,Longding,254
+01691,Pumao,254
+01692,Pangchao,254
+01693,Wakka,254
+01694,Laju,254
+01695,Ziro (Sadar),255
+01696,Old Ziro,255
+01697,Yachuli,255
+01698,Yazali,255
+01699,Pistana,255
+01700,Kamporijo,255
+01701,Dollungmukh,255
+01702,Raga,255
+01703,Palin,256
+01704,Yangte,256
+01705,Sangram,256
+01706,Nyapin,256
+01707,Phassang,256
+01708,Koloriang,256
+01709,Chambang,256
+01710,Gangte,256
+01711,Tarak-Lengdi,256
+01712,Sarli,256
+01713,Parsi-Parlo,256
+01714,Damin,256
+01715,Longding Koling (Pipsorang),256
+01716,Tali,256
+01717,Mipi,257
+01718,Anini,257
+01719,Etalin,257
+01720,Anelih,257
+01721,Kronli (Arzoo Circle),257
+01722,Hunli,258
+01723,Desali,258
+01724,Roing,258
+01725,Dambuk,258
+01726,Tinali ( Paglam ),258
+01727,Koronu,258
+01728,Sunpura,259
+01729,Tezu,259
+01730,Wakro,259
+01731,Chongkham,259
+01732,Namsai,259
+01733,Lathao,259
+01734,Piyong,259
+01735,Lekang (Mahadevpur),259
+01736,Hayuliang,260
+01737,Manchal,260
+01738,Goiliang,260
+01739,Chaglagam,260
+01740,Metengliang,260
+01741,Kibithoo,260
+01742,Walong,260
+01743,Hawai,260
+01744,Naginimora,261
+01745,Tizit,261
+01746,Hunta,261
+01747,Shangnyu,261
+01748,Mon Sadar,261
+01749,Wakching,261
+01750,Aboi,261
+01751,Longshen,261
+01752,Phomching,261
+01753,Chen,261
+01754,Angjangyang,261
+01755,Mopong,261
+01756,Tobu,261
+01757,Monyakshu,261
+01758,Longchem,262
+01759,Alongkima,262
+01760,Tuli,262
+01761,Changtongya,262
+01762,Chuchuyimlang,262
+01763,Kubolong,262
+01764,Mangkolemba,262
+01765,Merangmen,262
+01766,Ongpangkong,262
+01767,V.K.,263
+01768,Akuluto,263
+01769,Suruhuto,263
+01770,Asuto,263
+01771,Aghunato,263
+01772,Zunheboto Sadar,263
+01773,Atoizu,263
+01774,Akuhaito,263
+01775,Pughoboto,263
+01776,Ghathashi,263
+01777,Satakha,263
+01778,Saptiqa,263
+01779,Satoi,263
+01780,Changpang,264
+01781,Aitepyong,264
+01782,Bhandari,264
+01783,Baghty,264
+01784,Sungro,264
+01785,Sanis,264
+01786,Lotsu,264
+01787,Ralan,264
+01788,Wozhuro,264
+01789,Wokha Sadar,264
+01790,Englan,264
+01791,Chukitong,264
+01792,Niuland,265
+01793,Aquqhnaqua,265
+01794,Kuhoboto,265
+01795,Nihokhu,265
+01796,Dimapur Sadar,265
+01797,Chumukedima,265
+01798,Dhansiripar,265
+01799,Medziphema,265
+01800,Sekruzu,266
+01801,Phek Sadar,266
+01802,Khuza,266
+01803,Meluri,266
+01804,Phor,266
+01805,Phokhungri,266
+01806,Chozuba,266
+01807,Chetheba,266
+01808,Sakraba,266
+01809,Pfutsero,266
+01810,Zuketsa,266
+01811,Khezhakeno,266
+01812,Chizami,266
+01813,Razieba,266
+01814,Noksen,267
+01815,Chare,267
+01816,Longkhim,267
+01817,Tuensang Sadar,267
+01818,Ngoungchung,267
+01819,Sangsangnyu,267
+01820,Sotokur,267
+01821,Noklak,267
+01822,Chingmei,267
+01823,Nokhu,267
+01824,Panso,267
+01825,Shamator,267
+01826,Tsurungto,267
+01827,Chessore,267
+01828,Mangko,267
+01829,Thonoknyu,267
+01830,Tamlu,268
+01831,Namsang,268
+01832,Yongnyah,268
+01833,Longleng,268
+01834,Sakshi,268
+01835,Seyochung,269
+01836,Amahator,269
+01837,Kiphire Sadar,269
+01838,Kiusam,269
+01839,Sitimi,269
+01840,Longmatra,269
+01841,Pungro,269
+01842,Khongsa,269
+01843,Tseminyu,270
+01844,Tsogin,270
+01845,Chiephobozou,270
+01846,Botsa,270
+01847,Kezocha,270
+01848,Jakhama,270
+01849,Kohima Sadar,270
+01850,Sechu-Zubza,270
+01851,Pedi (Ngwalwa),271
+01852,Jalukie,271
+01853,Athibung,271
+01854,Kebai Khelma,271
+01855,Nsong,271
+01856,Tening,271
+01857,Peren,271
+01896,Zawlnuam,281
+01897,West Phaileng,281
+01898,Reiek,281
+01899,'N' Thingdawl,282
+01900,Bilkhawthlir,282
+01901,Tlangnuam (Part),282
+01902,Darlawn,283
+01903,Phullen,283
+01904,Aibawk,283
+01901,Tlangnuam (Part),283
+01905,Thingsulthliah (Part),283
+01906,Ngopa,284
+01907,Khawzawl,284
+01908,Champhai,284
+01909,Khawbung,284
+01911,East Lungdar (Part),284
+01905,Thingsulthliah (Part),285
+01910,Serchhip,285
+01911,East Lungdar (Part),285
+01912,West Bunghmun,286
+01913,Lungsen,286
+01914,Lunglei,286
+01915,Hnahthial,286
+01916,Chawngte,287
+01917,Lawngtlai,287
+01918,S' Bungtlang,287
+01919,Sangau,287
+01920,Tuipang,288
+01921,Saiha,288
+01922,Mohanpur,289
+01923,Hezamara,289
+01924,Padmabil,289
+01925,Khowai,289
+01926,Tulashikhar,289
+01927,Kalyanpur,289
+01928,Teliamura,289
+01929,Mungiakumi,289
+01930,Mandai,289
+01931,Jirania,289
+01932,Dukli,289
+01933,Jampuijala,289
+01934,Bishalgarh,289
+01935,Boxanagar,289
+01936,Melaghar,289
+01937,Kathalia,289
+01938,Killa,290
+01939,Amarpur,290
+01940,Ompi,290
+01941,Matarbari,290
+01942,Kakraban,290
+01943,Rajnagar,290
+01944,Hrishyamukh,290
+01945,Bokafa,290
+01946,Karbuk,290
+01947,Rupaichhari,290
+01948,Satchand,290
+01949,Salema,291
+01950,Manu,291
+01951,Ambassa,291
+01952,Chhamanu,291
+01953,Dumburnagar,291
+01954,Gournagar,292
+01955,Kadamtala,292
+01956,Panisagar,292
+01957,Damchhara,292
+01958,Pencharthal,292
+01959,Kumarghat,292
+01960,Dasda,292
+01961,Jampuii Hills,292
+01962,Selsella,293
+01963,Dadenggiri,293
+01964,Tikrikilla,293
+01965,Rongram,293
+01966,Betasing,293
+01967,Zikzak,293
+01968,Gambegre,293
+01969,Dalu,293
+01970,Resubelpara,294
+01971,Dambo Rongjeng,294
+01972,Kharkutta,294
+01973,Songsak,294
+01974,Samanda,294
+01975,Chokpot,295
+01976,Gasuapara,295
+01977,Baghmara,295
+01978,Rongara,295
+01979,Mawshynrut,296
+01980,Nongstoin,296
+01981,Mawthadraishan,296
+01982,Mairang,296
+01983,Ranikor,296
+01984,Mawkyrwat,296
+01985,Umling,297
+01986,Jirang,297
+01987,Umsning,297
+01988,Mawphlang,298
+01989,Mylliem,298
+01990,Mawryngkneng,298
+01991,Mawkynrew,298
+01992,Khatarshnong Laitkroh,298
+01993,Mawsynram,298
+01994,Shella Bholaganj,298
+01995,Pynursla,298
+01996,Thadlaskein,299
+01997,Laskein,299
+01998,Amlarem,299
+01999,Khliehriat,299
+02000,Saipung,299
+02001,Gossaigaon (Pt),300
+02002,Bhowraguri,300
+02003,Dotoma,300
+02004,Kokrajhar (Pt),300
+02007,Golokganj (Pt),300
+02008,Dhubri (Pt),300
+02005,Bagribari (Pt),300
+02009,Bilasipara (Pt),300
+02010,Chapar (Pt),300
+02001,Gossaigaon (Pt),301
+02006,Agamoni,301
+02007,Golokganj (Pt),301
+02008,Dhubri (Pt),301
+02005,Bagribari (Pt),301
+02009,Bilasipara (Pt),301
+02010,Chapar (Pt),301
+02011,South Salmara,301
+02012,Mankachar,301
+02013,Lakhipur,302
+02014,Balijana,302
+02015,Matia,302
+02016,Dudhnai,302
+02017,Rangjuli,302
+02018,Barnagar (Pt),303
+02019,Kalgachia,303
+02020,Baghbor,303
+02021,Chenga,303
+02022,Barpeta,303
+02023,Sarthebari,303
+02024,Bajali (Pt),303
+02025,Sarupeta (Pt),303
+02140,Jalah (Pt),303
+02026,Mayong,304
+02027,Bhuragaon,304
+02028,Laharighat,304
+02029,Marigaon,304
+02030,Mikirbheta,304
+02031,Kaliabor,305
+02032,Samaguri,305
+02033,Rupahi,305
+02034,Dhing,305
+02035,Nagaon,305
+02036,Raha,305
+02037,Kampur,305
+02038,Hojai,305
+02039,Doboka,305
+02040,Lanka,305
+02041,Dhekiajuli (Pt),306
+02042,Chariduar,306
+02043,Tezpur,306
+02044,Na-Duar,306
+02045,Biswanath,306
+02046,Helem,306
+02047,Gohpur,306
+02048,Narayanpur,307
+02049,Bihpuria,307
+02050,Naobaicha,307
+02051,Kadam,307
+02052,North Lakhimpur,307
+02053,Dhakuakhana (Pt),307
+02054,Subansiri (Pt),307
+02055,Dhemaji,308
+02056,Sissibargaon,308
+02057,Jonai,308
+02053,Dhakuakhana (Pt),308
+02054,Subansiri (Pt),308
+02058,Gogamukh,308
+02059,Sadiya,309
+02060,Doom Dooma,309
+02061,Tinsukia,309
+02062,Margherita,309
+02063,Dibrugarh West,310
+02064,Dibrugarh East,310
+02065,Chabua,310
+02066,Tengakhat,310
+02067,Moran,310
+02068,Tingkhong,310
+02069,Naharkatiya,310
+02070,Dimow,311
+02071,Sivasagar,311
+02072,Amguri,311
+02073,Nazira,311
+02074,Sonari,311
+02075,Mahmora,311
+02076,Majuli,312
+02077,Jorhat West,312
+02078,Jorhat East,312
+02079,Teok,312
+02080,Titabor,312
+02081,Mariani,312
+02082,Bokakhat,313
+02083,Khumtai,313
+02084,Dergaon,313
+02085,Golaghat,313
+02086,Morangi,313
+02087,Sarupathar,313
+02088,Donka,314
+02089,Diphu,314
+02090,Phuloni,314
+02091,Silonijan,314
+02092,Umrangso,315
+02093,Haflong,315
+02094,Mahur,315
+02095,Maibong,315
+02096,Katigora,316
+02097,Silchar,316
+02098,Udarbond,316
+02099,Sonai,316
+02100,Lakhipur,316
+02101,Karimganj,317
+02102,Badarpur,317
+02103,Nilambazar,317
+02104,Patharkandi,317
+02105,Ramkrishna Nagar,317
+02106,Algapur,318
+02107,Hailakandi,318
+02108,Lala,318
+02109,Katlichara,318
+02110,Bongaigaon (Pt),319
+02111,Boitamari,319
+02112,Srijangram,319
+02115,Bijni (Pt),319
+02114,Sidli (Pt),319
+02004,Kokrajhar (Pt),320
+02113,Bengtol,320
+02114,Sidli (Pt),320
+02110,Bongaigaon (Pt),320
+,,320
+02115,Bijni (Pt),320
+02018,Barnagar (Pt),320
+02141,Goreswar (Pt),321
+02116,Rangia (Pt),321
+02117,Koya,321
+02118,Kamalpur,321
+02119,Hajo,321
+02120,Chhaygaon,321
+02121,Goroimari,321
+02122,Chamaria,321
+02123,Nagarbera,321
+02124,Boko,321
+02125,Palasbari,321
+02126,North Guwahati (Pt),321
+02127,Azara,322
+02126,North Guwahati (Pt),322
+02129,Dispur,322
+02130,Sonapur,322
+02131,Chandrapur,322
+02142,Barama (Pt),323
+02132,Tihu (Pt),323
+02133,Pachim Nalbari,323
+02134,Barkhetri,323
+02135,Barbhag,323
+02136,Nalbari,323
+02137,Banekuchi,323
+02138,Ghograpar (Pt),323
+02139,Baganpara (Pt),323
+02018,Barnagar (Pt),324
+02024,Bajali (Pt),324
+02025,Sarupeta (Pt),324
+02140,Jalah (Pt),324
+02141,Goreswar (Pt),324
+02116,Rangia (Pt),324
+02142,Barama (Pt),324
+02132,Tihu (Pt),324
+02138,Ghograpar (Pt),324
+02143,Baska,324
+02139,Baganpara (Pt),324
+02144,Tamulpur,324
+02146,Pathorighat (Pt),324
+02145,Khoirabari (Pt),325
+02146,Pathorighat (Pt),325
+02147,Sipajhar,325
+02148,Mangaldoi (Pt),325
+02150,Kalaigaon (Pt),325
+02149,Dalgaon (Pt),325
+02145,Khoirabari (Pt),326
+02146,Pathorighat (Pt),326
+02148,Mangaldoi (Pt),326
+02150,Kalaigaon (Pt),326
+02149,Dalgaon (Pt),326
+02151,Harisinga,326
+02152,Udalguri,326
+02153,Mazbat,326
+02041,Dhekiajuli (Pt),326
+02154,Darjeeling Pulbazar,327
+02155,Rangli Rangliot,327
+02156,Kalimpong -I,327
+02157,Kalimpong - Ii,327
+02158,Gorubathan,327
+02159,Jorebunglow Sukiapokhri,327
+02160,Mirik,327
+02161,Kurseong,327
+02162,Matigara,327
+02163,Naxalbari,327
+02164,Phansidewa,327
+02165,Kharibari,327
+02166,Rajganj,328
+02167,Mal,328
+02168,Matiali,328
+02169,Nagrakata,328
+02170,Madarihat,328
+02171,Kalchini,328
+02172,Kumargram,328
+02173,Alipurduar - I,328
+02174,Alipurduar - Ii,328
+02175,Falakata,328
+02176,Dhupguri,328
+02177,Maynaguri,328
+02178,Jalpaiguri,328
+02179,Haldibari,329
+02180,Mekliganj,329
+02181,Mathabhanga - I,329
+02182,Mathabhanga - Ii,329
+02183,Cooch Behar - I,329
+02184,Cooch Behar - Ii,329
+02185,Tufanganj - I,329
+02186,Tufanganj - Ii,329
+02187,Dinhata - I,329
+02188,Dinhata - Ii,329
+02189,Sitai,329
+02190,Sitalkuchi,329
+02191,Chopra,330
+02192,Islampur,330
+02193,Goalpokhar - I,330
+02194,Goalpokhar - Ii,330
+02195,Karandighi,330
+02196,Raiganj,330
+02197,Hemtabad,330
+02198,Kaliaganj,330
+02199,Itahar,330
+02200,Kushmundi,331
+02201,Gangarampur,331
+02202,Kumarganj,331
+02203,Hilli,331
+02204,Balurghat,331
+99999,Area Not Under Any Sub-District,331
+02205,Tapan,331
+02206,Bansihari,331
+02207,Harirampur,331
+02208,Harischandrapur - I,332
+02209,Harischandrapur - Ii,332
+02210,Chanchal - I,332
+02211,Chanchal - Ii,332
+02212,Ratua - I,332
+02213,Ratua - Ii,332
+02214,Gazole,332
+02215,Bamangola,332
+02216,Habibpur,332
+02217,Maldah (Old),332
+02218,English Bazar,332
+02219,Manikchak,332
+02220,Kaliachak - I,332
+02221,Kaliachak - Ii,332
+02222,Kaliachak - Iii,332
+02223,Farakka,333
+02224,Samserganj,333
+02225,Suti - I,333
+02226,Suti - Ii,333
+02227,Raghunathganj - I,333
+02228,Raghunathganj - Ii,333
+02229,Lalgola,333
+02230,Sagardighi,333
+02231,Bhagawangola - I,333
+02232,Bhagawangola - Ii,333
+02233,Raninagar - Ii,333
+02234,Jalangi,333
+02235,Domkal,333
+02236,Raninagar - I,333
+02237,Murshidabad Jiaganj,333
+02238,Nabagram,333
+02239,Khargram,333
+02240,Kandi,333
+02241,Berhampore,333
+02242,Hariharpara,333
+02243,Nawda,333
+02244,Beldanga - I,333
+02245,Beldanga - Ii,333
+02246,Bharatpur - Ii,333
+02247,Bharatpur - I,333
+02248,Burwan,333
+02249,Murarai - I,334
+02250,Murarai - Ii,334
+02251,Nalhati - I,334
+02252,Nalhati - Ii,334
+02253,Rampurhat - I,334
+02254,Rampurhat - Ii,334
+02255,Mayureswar - I,334
+02256,Mayureswar - Ii,334
+02257,Mohammad Bazar,334
+02258,Rajnagar,334
+02259,Suri - I,334
+02260,Suri - Ii,334
+02261,Sainthia,334
+02262,Labpur,334
+02263,Nanoor,334
+02264,Bolpur Sriniketan,334
+02265,Illambazar,334
+02266,Dubrajpur,334
+02267,Khoyrasol,334
+02268,Salanpur,335
+02269,Barabani,335
+99999,Area Not Under Any Sub-District,335
+02270,Jamuria,335
+02271,Raniganj,335
+02272,Ondal,335
+02273,Pandabeswar,335
+02274,Faridpur Durgapur,335
+02275,Kanksa,335
+02276,Ausgram - Ii,335
+02277,Ausgram - I,335
+02278,Mangolkote,335
+02279,Ketugram - I,335
+02280,Ketugram - Ii,335
+02281,Katwa - I,335
+02282,Katwa - Ii,335
+02283,Purbasthali - I,335
+02284,Purbasthali - Ii,335
+02285,Manteswar,335
+02286,Bhatar,335
+02287,Galsi - I,335
+02288,Galsi - Ii,335
+02289,Burdwan - I,335
+02290,Burdwan - Ii,335
+02291,Memari - I,335
+02292,Memari - Ii,335
+02293,Kalna - I,335
+02294,Kalna - Ii,335
+02295,Jamalpur,335
+02296,Raina - I,335
+02297,Khandaghosh,335
+02298,Raina - Ii,335
+02299,Karimpur - I,336
+02300,Karimpur - Ii,336
+02301,Tehatta - I,336
+02302,Tehatta - Ii,336
+02303,Kaliganj,336
+02304,Nakashipara,336
+02305,Chapra,336
+02306,Krishnagar - Ii,336
+02307,Nabadwip,336
+02308,Krishnagar - I,336
+02309,Krishnaganj,336
+02310,Hanskhali,336
+02311,Santipur,336
+02312,Ranaghat - I,336
+99999,Area Not Under Any Sub-District,336
+02313,Ranaghat - Ii,336
+02314,Chakdah,336
+02315,Haringhata,336
+02316,Bagda,337
+02317,Bongaon,337
+02318,Gaighata,337
+02319,Swarupnagar,337
+02320,Habra - I,337
+02321,Habra - Ii,337
+02322,Amdanga,337
+02323,Barrackpur - I,337
+99999,Area Not Under Any Sub-District,337
+02324,Barrackpur - Ii,337
+02325,Barasat - I,337
+02326,Barasat - Ii,337
+02327,Deganga,337
+02328,Baduria,337
+02329,Basirhat - I,337
+02330,Basirhat - Ii,337
+02331,Haroa,337
+02332,Rajarhat,337
+02333,Minakhan,337
+02334,Sandeshkhali - I,337
+02335,Sandeshkhali - Ii,337
+02336,Hasnabad,337
+02337,Hingalganj,337
+02338,Goghat - I,338
+02339,Goghat - Ii,338
+02340,Arambag,338
+02341,Pursura,338
+02342,Tarakeswar,338
+02343,Dhaniakhali,338
+02344,Pandua,338
+02345,Balagarh,338
+02346,Chinsurah - Magra,338
+99999,Area Not Under Any Sub-District,338
+02347,Polba - Dadpur,338
+02348,Haripal,338
+02349,Singur,338
+02350,Serampur Uttarpara,338
+02351,Chanditala - I,338
+02352,Chanditala - Ii,338
+02353,Jangipara,338
+02354,Khanakul - I,338
+02355,Khanakul - Ii,338
+02356,Saltora,339
+02357,Mejhia,339
+02358,Gangajalghati,339
+02359,Chhatna,339
+02360,Indpur,339
+02361,Bankura - I,339
+02362,Bankura - Ii,339
+02363,Barjora,339
+02364,Sonamukhi,339
+02365,Patrasayer,339
+02366,Indus,339
+02367,Kotulpur,339
+02368,Jaypur,339
+02369,Vishnupur,339
+02370,Onda,339
+02371,Taldangra,339
+02372,Simlapal,339
+02373,Khatra,339
+02374,Hirbandh,339
+02375,Ranibundh,339
+02376,Raipur,339
+02377,Sarenga,339
+02378,Jaipur,340
+02379,Purulia - Ii,340
+02380,Para,340
+02381,Raghunathpur - Ii,340
+02382,Raghunathpur - I,340
+02383,Neturia,340
+02384,Santuri,340
+02385,Kashipur,340
+02386,Hura,340
+02387,Purulia - I,340
+02388,Puncha,340
+02389,Arsha,340
+02390,Jhalda - I,340
+02391,Jhalda - Ii,340
+02392,Bagmundi,340
+02393,Balarampur,340
+02394,Barabazar,340
+02395,Manbazar - I,340
+02396,Manbazar - Ii,340
+02397,Bundwan,340
+02398,Udaynarayanpur,341
+02399,Amta - Ii,341
+02400,Amta - I,341
+02401,Jagatballavpur,341
+02402,Domjur,341
+02403,Bally Jagachha,341
+02404,Sankrail,341
+99999,Area Not Under Any Sub-District,341
+02405,Panchla,341
+02406,Uluberia - Ii,341
+02407,Uluberia - I,341
+02408,Bagnan - I,341
+02409,Bagnan - Ii,341
+02410,Shyampur - I,341
+02411,Shyampur - Ii,341
+02412,Thakurpukur Mahestola,343
+02413,Budge Budge - I,343
+02414,Budge Budge - Ii,343
+02415,Bishnupur - I,343
+02416,Bishnupur - Ii,343
+02417,Sonarpur,343
+02418,Bhangar - I,343
+02419,Bhangar - Ii,343
+02420,Canning - I,343
+02421,Canning - Ii,343
+02422,Baruipur,343
+02423,Magrahat - Ii,343
+02424,Magrahat - I,343
+02425,Falta,343
+02426,Diamond Harbour - I,343
+02427,Diamond Harbour - Ii,343
+02428,Kulpi,343
+02429,Mandirbazar,343
+02430,Mathurapur - I,343
+02431,Jaynagar - I,343
+02432,Jaynagar - Ii,343
+02433,Kultali,343
+02434,Basanti,343
+02435,Gosaba,343
+02436,Mathurapur - Ii,343
+02437,Kakdwip,343
+02438,Sagar,343
+02439,Namkhana,343
+02440,Patharpratima,343
+02441,Binpur - Ii,344
+02442,Binpur - I,344
+02443,Garbeta - Ii,344
+02444,Garbeta - I,344
+02445,Garbeta - Iii,344
+02446,Chandrakona - I,344
+02447,Chandrakona - Ii,344
+02448,Ghatal,344
+02449,Daspur - I,344
+02450,Daspur - Ii,344
+02451,Keshpur,344
+02452,Salbani,344
+02453,Midnapore,344
+02454,Jhargram,344
+02455,Jamboni,344
+02456,Gopiballavpur - Ii,344
+02457,Gopiballavpur - I,344
+02458,Nayagram,344
+02459,Sankrail,344
+02460,Kharagpur - I,344
+02461,Kharagpur - Ii,344
+02462,Debra,344
+02463,Pingla,344
+02464,Sabang,344
+02465,Narayangarh,344
+02466,Keshiary,344
+02467,Dantan - I,344
+02468,Dantan - Ii,344
+02469,Mohanpur,344
+02470,Panskura,345
+02471,Kolaghat,345
+02472,Tamluk,345
+02473,Sahid Matangini,345
+02474,Nanda Kumar,345
+02475,Mahisadal,345
+02476,Moyna,345
+02477,Potashpur - I,345
+02478,Potashpur - Ii,345
+02479,Bhagawanpur - Ii,345
+02480,Bhagawanpur - I,345
+02481,Chandipur,345
+02482,Sutahata,345
+02483,Haldia,345
+02484,Nandigram - I,345
+02485,Nandigram - Ii,345
+02486,Khejuri - I,345
+02487,Khejuri - Ii,345
+02488,Contai - I,345
+02489,Deshopran,345
+02490,Contai - Iii,345
+02491,Egra - I,345
+02492,Egra - Ii,345
+02493,Ramnagar - I,345
+02494,Ramnagar - Ii,345
+02495,Kharaundhi,346
+02496,Bhawnathpur,346
+02497,Ketar,346
+02498,Kandi,346
+02499,Majhiaon,346
+02500,Bardiha,346
+02501,Ramna,346
+02502,Bishunpura,346
+02503,Nagaruntari,346
+02504,Dhurki,346
+02505,Sagma,346
+02506,Dandai,346
+02507,Chinia,346
+02508,Meral (Pipra Kalan),346
+02509,Garhwa,346
+02510,Danda,346
+02511,Ranka,346
+02512,Ramkanda,346
+02513,Bhandaria,346
+02514,Shaligram Ram Narayanpur(Hunterganj),347
+02515,Pratappur,347
+02516,Kunda,347
+02517,Lawalaung,347
+02518,Chatra,347
+02519,Kanha Chatti,347
+02520,Itkhori,347
+02521,Mayur Hand,347
+02522,Gidhaur,347
+02523,Pathalgora,347
+02524,Simaria,347
+02525,Tandwa,347
+02526,Satgawan,348
+02527,Kodarma,348
+02528,Domchanch,348
+02529,Jainagar,348
+02530,Chandwara,348
+02531,Markacho,348
+02532,Gawan,349
+02533,Tisri,349
+02534,Deori,349
+02535,Dhanwar,349
+02536,Jamua,349
+02537,Bengabad,349
+02538,Gande,349
+02539,Giridih,349
+02540,Birni,349
+02541,Bagodar,349
+02542,Sariya,349
+02543,Dumri,349
+02544,Pirtanr,349
+02545,Deoghar,350
+02546,Mohanpur,350
+02547,Sarwan,350
+02548,Sona Rai Tharhi,350
+02549,Devipur,350
+02550,Madhupur,350
+02551,Margo Munda,350
+02552,Karon,350
+02553,Sarath,350
+02554,Palojori,350
+02555,Meherma,351
+02556,Thakurgangti,351
+02557,Boarijor,351
+02558,Mahagama,351
+02559,Pathargama,351
+02560,Bashant Rai,351
+02561,Godda,351
+02562,Poreyahat,351
+02563,Sundarpahari,351
+02564,Sahibganj,352
+02565,Mandro,352
+02566,Borio,352
+02567,Barhait,352
+02568,Taljhari,352
+02569,Rajmahal,352
+02570,Udhwa,352
+02571,Pathna,352
+02572,Barharwa,352
+02573,Litipara,353
+02574,Amrapara,353
+02575,Hiranpur,353
+02576,Pakaur,353
+02577,Maheshpur,353
+02578,Pakuria,353
+02579,Tundi,354
+02580,Purbi Tundi,354
+02581,Topchanchi,354
+02582,Baghmara-Cum-Katras,354
+02583,Gobindpur,354
+02584,Dhanbad-Cum-Kenduadih-Cum-Jagata,354
+02586,Baliapur,354
+02587,Nirsa-Cum-Chirkunda,354
+02588,Nawadih,355
+02589,Chandrapura,355
+02590,Bermo,355
+02591,Gumia,355
+02592,Peterwar,355
+02593,Kasmar,355
+02594,Jaridih,355
+02595,Chas,355
+02596,Chandankiyari,355
+02597,Kisko,356
+02598,Peshrar,356
+02599,Kuru,356
+02600,Kairo,356
+02601,Lohardaga,356
+02602,Senha,356
+02603,Bhandra,356
+02604,Patamda,357
+02605,Boram,357
+02606,Golmuri-Cum-Jugsalai,357
+02607,Ghatshila,357
+02608,Potka,357
+02609,Musabani,357
+02610,Dumaria,357
+02611,Dhalbhumgarh,357
+02612,Gurbandha,357
+02613,Chakulia,357
+02614,Baharagora,357
+02615,Hussainabad,358
+02616,Haidernagar,358
+02617,Mohammad Ganj,358
+02618,Hariharganj,358
+02619,Pipra,358
+02620,Chhatarpur,358
+02621,Nawadiha Bazar/Nawadiha,358
+02622,Pandu,358
+02623,Untari Road,358
+02624,Bishrampur,358
+02625,Nawa Bazar,358
+02626,Patan,358
+02627,Padwa,358
+02628,Manatu,358
+02629,Tarhasi,358
+02630,Panki,358
+02631,Satbarwa,358
+02632,Nilambar-Pitambarpur(Lesliganj),358
+02633,Medininagar(Daltonganj),358
+02634,Chainpur,358
+02635,Manika,359
+02636,Barwadih,359
+02637,Mahuadanr,359
+02638,Garu,359
+02639,Latehar,359
+02640,Balumath,359
+02641,Bariyatu,359
+02642,Herhanj,359
+02643,Chandwa,359
+02644,Chauparan,360
+02645,Barhi,360
+02646,Padma,360
+02647,Ichak,360
+02648,Tati Jhariya,360
+02649,Daru,360
+02650,Barkatha,360
+02651,Chalkusa,360
+02652,Bishungarh,360
+02653,Hazaribag,360
+02654,Katkamsandi,360
+02655,Katamdag,360
+02656,Keredari,360
+02657,Barkagaon,360
+02658,Churchu,360
+02659,Dadi,360
+02660,Patratu,361
+02661,Mandu,361
+02662,Ramgarh,361
+02663,Dulmi,361
+02664,Chitarpur,361
+02665,Gola,361
+02666,Saraiyahat,362
+02667,Jarmundi,362
+02668,Ramgarh,362
+02669,Gopikandar,362
+02670,Kathikund,362
+02671,Shikaripara,362
+02672,Ranishwar,362
+02673,Dumka,362
+02674,Jama,362
+02675,Masalia,362
+02676,Narayanpur,363
+02677,Karma Tanr Vidyasagar,363
+02678,Jamtara,363
+02679,Nala,363
+02680,Fatehpur,363
+02681,Kundhit,363
+02682,Burmu,364
+02683,Khelari,364
+02684,Kanke,364
+02685,Ormanjhi,364
+02686,Angara,364
+02687,Rahe,364
+02688,Silli,364
+02689,Sonahatu,364
+02690,Namkum,364
+02691,Ratu,364
+02692,Nagri,364
+02693,Mandar,364
+02694,Chanho,364
+02695,Bero,364
+02696,Itki,364
+02697,Lapung,364
+02698,Bundu,364
+02699,Tamar I,364
+02700,Karra,365
+02701,Torpa,365
+02702,Rania,365
+02703,Murhu,365
+02704,Khunti,365
+02705,Erki (Tamar Ii),365
+02706,Bishunpur,366
+02707,Ghaghra,366
+02708,Sisai,366
+02709,Verno,366
+02710,Kamdara,366
+02711,Basia,366
+02712,Gumla,366
+02713,Chainpur,366
+02714,Dumri,366
+02715,Albert Ekka(Jari),366
+02716,Raidih,366
+02717,Palkot,366
+02718,Simdega,367
+02719,Pakar Tanr,367
+02720,Kurdeg,367
+02721,Kersai,367
+02722,Bolba,367
+02723,Thethaitangar,367
+02724,Kolebira,367
+02725,Jaldega,367
+02726,Bansjor,367
+02727,Bano,367
+02728,Sonua,368
+02729,Gudri,368
+02730,Bandgaon,368
+02731,Chakradharpur,368
+02732,Khuntpani,368
+02733,Goilkera,368
+02734,Anandpur,368
+02735,Manoharpur,368
+02736,Noamundi,368
+02737,Tonto,368
+02738,Hat Gamharia,368
+02739,Chaibasa,368
+02740,Tantnagar,368
+02741,Manjhari,368
+02742,Jhinkpani,368
+02743,Jagannathpur,368
+02744,Kumardungi,368
+02745,Majhgaon,368
+02746,Kuchai,369
+02747,Kharsawan,369
+02748,Chandil,369
+02749,Ichagarh,369
+02750,Kukru,369
+02751,Nimdih,369
+02752,Adityapur(Gamharia),369
+02753,Saraikela,369
+02754,Gobindpur(Rajnagar),369
+02755,Paikamal,370
+02756,Jharbandha,370
+02757,Padmapur,370
+02758,Burden,370
+02759,Gaisilet,370
+02760,Melchhamunda,370
+02761,Sohela,370
+02762,Bijepur,370
+02763,Barapali,370
+02764,Bheden,370
+02765,Bargarh,370
+02766,Bargarh Sadar,370
+02767,Bhatli,370
+02768,Ambabhona,370
+02769,Attabira,370
+02770,Rengali,371
+02771,Lakhanpur,371
+02772,Belpahar,371
+02773,Banaharapali,371
+02774,Orient,371
+02775,Brajarajnagar,371
+02776,Jharsuguda,371
+02777,Badmal,371
+02778,Laikera,371
+02779,Kolabira,371
+02780,Govindpur,372
+02781,Mahulpalli,372
+02782,Kochinda,372
+02783,Katarbaga,372
+02784,Thelkoloi,372
+02785,Rengali,372
+02786,Sasan,372
+02787,Hirakud,372
+02788,Burla,372
+02789,Dhanupali,372
+02790,Ainthapali,372
+02791,Sadar,372
+02792,Jamankira,372
+02793,Kisinda,372
+02794,Jujomura,372
+02795,Dhama,372
+02796,Charamal,372
+02797,Rairakhol,372
+02798,Naktideul,372
+02799,Sambalpur (M),372
+02800,Debagarh,373
+02801,Barkot,373
+02802,Kundheigola,373
+02803,Reamal,373
+02804,Hemgir,374
+02805,Lephripara,374
+02806,Bhasma,374
+02807,Dharuadihi,374
+02808,Sundargarh Town,374
+02809,Sundargarh,374
+02810,Kinjirkela,374
+02811,Talasara,374
+02812,Baragaon,374
+02813,Kutra,374
+02814,Rajagangapur,374
+02815,Raiboga,374
+02816,Biramitrapur,374
+02817,Hatibari,374
+02818,Bisra,374
+02819,Bondamunda,374
+02820,Brahmani Tarang,374
+02821,Raghunathapali,374
+02822,Tangarapali,374
+02823,Lathikata,374
+02824,Chandiposh,374
+02825,Kamarposh Balang,374
+02826,Koida,374
+02827,Lahunipara,374
+02828,Gurundia,374
+02829,Tikaetpali,374
+02830,Banei,374
+02831,Mahulapada,374
+02832,Raurkela (M),374
+02833,Raurkela (Its),374
+02834,Barbil,375
+02835,Bolani,375
+02836,Rugudi,375
+02837,Joda,375
+02838,Bamebari,375
+02839,Champua,375
+02840,Jhumpura,375
+02841,Baria,375
+02842,Turumunga,375
+02843,Patana,375
+02844,Kendujhar Sadar,375
+02845,Kendujhar Town,375
+02846,Nayakote,375
+02847,Kanjipani,375
+02848,Telkoi,375
+02849,Pandapara,375
+02850,Ghatgaon,375
+02851,Harichandanpur,375
+02852,Daitari,375
+02853,Ghasipura,375
+02854,Anandapur,375
+02855,Soso,375
+02856,Nandipada,375
+02857,Sainkul,375
+02858,Tiring,376
+02859,Bahalda,376
+02860,Jamda,376
+02861,Rairangpur Town,376
+02862,Gorumahisani,376
+02863,Jharpokharia,376
+02864,Bisoi,376
+02865,Rairangpur,376
+02866,Badampahar,376
+02867,Jashipur,376
+02868,Raruan,376
+02869,Ghagarbeda,376
+02870,Karanjia,376
+02871,Thakurmunda,376
+02872,Baripada Sadar,376
+02873,Baripada Town,376
+02874,Koliana,376
+02875,Bangiriposi,376
+02876,Chandua,376
+02877,Suliapada,376
+02878,Muruda,376
+02879,Rasagobindapur,376
+02880,Baisinga,376
+02881,Betanati,376
+02882,Barsahi,376
+02883,Khunta,376
+02884,Udala,376
+02885,Kaptipada,376
+02886,Sharata,376
+02887,Mahuldiha,376
+02888,Baripada (M),376
+02889,Raibania,377
+02890,Jaleswar,377
+02891,Bhograi,377
+02892,Kamarda,377
+02893,Baliapal,377
+02894,Singla,377
+02895,Basta,377
+02896,Rupsa,377
+02897,Baleshwar Sadar,377
+02898,Sahadevkhunta,377
+02899,Chandipur,377
+02900,Balaramgadi Marine,377
+02901,Bampada,377
+02902,Remuna,377
+02903,Nilagiri,377
+02904,Berhampur,377
+02905,Oupada,377
+02906,Khaira,377
+02907,Soro,377
+02908,Similia,377
+02909,Baleshwar (M),377
+02910,Agarpada,378
+02911,Bant,378
+02912,Bhandari Pokhari,378
+02913,Dhamanagar,378
+02914,Bhadrak Rural,378
+02915,Basudebpur,378
+02916,Naikanidihi,378
+02917,Tihidi,378
+02918,Dhusuri,378
+02919,Chandabali,378
+02920,Bansada,378
+02921,Dhamara Marine,378
+02922,Rajkanika,379
+02923,Rajnagar,379
+02924,Jamboo Marine,379
+02925,Aali,379
+02926,Pattamundai,379
+02928,Kendrapara Sadar,379
+02929,Nikirai,379
+02930,Derabish,379
+02931,Patkura,379
+02932,Marsaghai,379
+02933,Mahakalapada,379
+02934,Paradip,380
+02935,Paradeep Lock,380
+02936,Kujang,380
+02937,Abhyachandpur,380
+02938,Ersama,380
+02939,Tirtol,380
+02940,Jagatsinghapur,380
+02941,Biridi,380
+02942,Naugaon,380
+02943,Balikuda,380
+02944,Narasinghpur,381
+02945,Kanpur,381
+02946,Badamba,381
+02947,Baidyeswar,381
+02948,Banki,381
+02949,Tigiria,381
+02950,Athagad,381
+02951,Barang,381
+02952,Gurudijhatia,381
+02953,Khuntuni,381
+02954,Choudwar,381
+02955,Tangi,381
+02956,Mahanga,381
+02957,Salepur,381
+02958,Nischintakoili,381
+02959,Nemalo,381
+02960,Kishannagar,381
+02961,Jagatpur,381
+02962,Cuttack Sadar,381
+02963,Kandarpur,381
+02964,C.R.R.I.,381
+02965,Gobindpur,381
+02966,Olatapur,381
+02967,Niali,381
+02969,Sukinda,382
+02970,Tomka,382
+02971,Kaliapani,382
+02972,Kalinganagar,382
+02973,Jakhapura,382
+02974,Jajapur Road,382
+02975,Korai,382
+02976,Panikoili,382
+02977,Jajapur,382
+02978,Jajpur Sadar,382
+02979,Dharmasala,382
+02980,Jenapur,382
+02981,Kuakhia,382
+02982,Badachana,382
+02983,Balichandrapur,382
+02984,Binjharpur,382
+02985,Bari - Ramachandrapur,382
+02986,Mangalpur,382
+02987,Parajang,383
+02988,Kamakshyanagar,383
+02989,Kankadahad,383
+02990,Bhuban,383
+02991,Gandia,383
+02992,Nihalprasad,383
+02993,Tumusingha,383
+02994,Motunga,383
+02995,Bhusan Steel Limited,383
+02996,Balimi,383
+02997,Hindol,383
+02998,Rasol,383
+02999,Dhenkanal Sadar,383
+03000,Palalahada,384
+03001,Khamar,384
+03002,Rengali Damsite,384
+03003,Kaniha,384
+03004,N.T.P.C.,384
+03005,Samal Barrage,384
+03006,Talcher Sadar,384
+03007,Colliery,384
+03008,Bikrampur,384
+03009,Nalco,384
+03010,Banarpal,384
+02995,Bhusan Steel Limited,384
+03011,Anugul,384
+03012,Jarapada,384
+03013,Industrial,384
+03014,Chhendipada,384
+03015,Handapa,384
+03016,Kishorenagar,384
+03017,Athmallik,384
+03018,Kiakata,384
+03019,Thakurgarh,384
+03020,Purunakot,384
+03021,Bantala,384
+03022,Gania,385
+03023,Dasapalla,385
+03024,Banigochha,385
+03025,Nuagaon,385
+03026,Khandapada,385
+03027,Fategarh,385
+03028,Nayagarh,385
+03029,Itamati,385
+03030,Nayagarh Sadar,385
+03031,Odagaon,385
+03032,Sarankul,385
+03033,Ranapur,385
+03034,Bolagad,386
+03035,Begunia,386
+03036,Khordha,386
+03037,Khordha Sadar,386
+03038,Chandaka,386
+03039,Nandankanan,386
+03041,Mancheswar,386
+03042,Balianta,386
+03043,Balipatna,386
+03044,Lingaraj,386
+03045,Airfield (Kapila Prasad),386
+03046,Uttara,386
+03047,Khandagiri,386
+03048,Tamando,386
+03049,Jatani,386
+03050,Jankia,386
+03051,Nirakarpur,386
+03052,Tangi,386
+03053,Balugaon,386
+03054,Banapur,386
+03055,Bhubaneswar (M Corp.),386
+03056,Delanga,387
+03057,Pipili,387
+03058,Nimapada,387
+03059,Kakatpur,387
+03060,Astaranga,387
+03061,Konark,387
+03062,Gop,387
+03063,Ramachandi,387
+03064,Satyabadi,387
+03065,Chandanpur,387
+03066,Sadar,387
+03067,Brahmagiri,387
+03068,Gadisagada,387
+03069,Krushna Prasad,387
+03071,Tarasingi,388
+03072,Buguda,388
+03073,Jagannath Prasad,388
+03074,Bhanjanagar,388
+03075,Gangapur,388
+03076,Surada,388
+03077,Badagada,388
+03078,Asika,388
+03079,Dharakote,388
+03080,Kabisuryanagar,388
+03081,Polasara,388
+03082,Kodala,388
+03083,Khalikote,388
+03084,Rambha,388
+03085,Chhatrapur,388
+03086,Ganjam,388
+03087,Chamakhandi,388
+03088,Arjyapalli Marine,388
+03089,Purusottampur,388
+03090,Hinjili,388
+03091,Patapur,388
+03092,Seragad,388
+03093,Brahmapur Sadar,388
+03094,Gopalpur,388
+03095,Golanthara,388
+03096,Digapahandi,388
+03097,Nuagaon,388
+03098,Jarada,388
+03109,Ramagiri,388
+03100,Adva,389
+03101,Mohana,389
+03102,R.Udaygiri,389
+03103,Serango,389
+03104,Kashinagara,389
+03105,Parlakhemundi,389
+03106,Gurandi,389
+03107,Rayagada,389
+03108,Garabandha,389
+03109,Ramagiri,389
+03110,Gochhapada,390
+03111,Phulabani,390
+03112,Phulabani Town,390
+03113,Khajuripada,390
+03114,G.Udayagiri,390
+03115,Tikabali,390
+03116,Chakapada,390
+03117,Sarangagarh,390
+03118,Phiringia,390
+03119,Baliguda,390
+03120,Nuagaon,390
+03121,Tumudibandha,390
+03122,Belaghar,390
+03123,Kotagarh,390
+03124,Brahmanigaon,390
+03125,Daringbadi,390
+03126,Raikia,390
+03127,Kantamal,391
+03128,Manamunda,391
+03129,Baunsuni,391
+03130,Baudh Sadar,391
+03131,Puruna Katak,391
+03132,Harbhanga,391
+03133,Dunguripali,392
+03134,Rampur,392
+03135,Binika,392
+03136,Ulunda,392
+03137,Biramaharajpur,392
+03138,Subalaya,392
+03139,Sonapur,392
+03140,Tarbha,392
+03141,Loisinga,393
+03142,Balangir,393
+03143,Tushura,393
+03144,Patnagarh,393
+03145,Khaprakhol,393
+03146,Turekela,393
+03147,Belpara,393
+03148,Saintala,393
+03149,Kantabanji,393
+03150,Bangomunda,393
+03151,Sindhekela,393
+03152,Titlagarh,393
+03153,Jonk,394
+03154,Nuapada,394
+03155,Komna,394
+03156,Khariar,394
+03157,Boden,394
+03158,Sinapali,394
+03159,Kesinga,395
+03160,Madanpur Rampur,395
+03161,Narala,395
+03162,Lanjigarh,395
+03163,Biswanathpur,395
+03164,Sadar,395
+03165,Kegaon,395
+03166,Junagarh,395
+03167,Golamunda,395
+03168,Dharamgarh,395
+03169,Kokasara,395
+03170,Jayapatna,395
+03171,Thuamul Rampur,395
+03172,Ambadala,396
+03173,Muniguda,396
+03174,Chandrapur,396
+03175,Bishamakatak,396
+03176,Kalyanasingpur,396
+03177,Kashipur,396
+03178,Andirakanch,396
+03179,Tikiri,396
+03180,Doraguda,396
+03181,Rayagada,396
+03182,Seskhal,396
+03183,Gunupur,396
+03184,Gudari,396
+03185,Padmapur,396
+03186,Puttasing,396
+03187,Raighar,397
+03188,Kundei,397
+03189,Umarkote,397
+03190,Chandahandi,397
+03191,Jharigan,397
+03192,Dabugan,397
+03193,Paparahandi,397
+03194,Kodinga,397
+03195,Kosagumuda,397
+03196,Nabarangapur,397
+03197,Tentulikhunti,397
+03198,Khatiguda,397
+03199,Kotpad,398
+03200,Boriguma,398
+03201,Bhairabsingipur,398
+03202,Dasamantapur,398
+03203,Lakshmipur,398
+03204,Narayanpatana,398
+03205,Bandhugaon,398
+03206,Kakiriguma,398
+03207,Koraput,398
+03208,Koraput Town,398
+03209,Jeypore,398
+03210,Kundura,398
+03211,Boipariguda,398
+03212,Machh Kund,398
+03213,Padua,398
+03214,Nandapur,398
+03215,Similiguda,398
+03216,Sunabeda,398
+03217,Damonjodi,398
+03218,Pottangi,398
+03219,Kotiya,398
+03220,Malkangiri,399
+03221,Mathili,399
+03222,Mudulipada,399
+03223,Chitrakonda,399
+03224,Paparmetla,399
+03225,Jodamba,399
+03226,Orkel,399
+03227,Kalimela,399
+03228,Podia,399
+03229,M.V. 79,399
+03230,Motu,399
+03231,Bharatpur,400
+03232,Baikunthpur,400
+03233,Sonhat,400
+03234,Manendragarh,400
+03235,Khadganva,400
+03236,Ramanujganj,401
+03237,Balrampur,401
+03238,Wadrafnagar,401
+03239,Pratappur,401
+03240,Samri(Kusmi),401
+03241,Shankargarh,401
+03242,Surajpur,401
+03243,Oudgi,401
+03244,Bhaiyathan,401
+03245,Ramanujnagar,401
+03246,Premnagar,401
+03247,Ambikapur,401
+03248,Lakhanpur,401
+03249,Udaypur,401
+03250,Rajpur,401
+03251,Lundra,401
+03252,Sitapur,401
+03253,Batouli,401
+03254,Mainpat,401
+03255,Bagicha,402
+03256,Kansabel,402
+03257,Jashpur,402
+03258,Manora,402
+03259,Kunkuri,402
+03260,Duldula,402
+03261,Farsabahar,402
+03262,Pathalgaon,402
+03263,Udaipur (Dharamjaigarh),403
+03264,Lailunga,403
+03265,Gharghoda,403
+03266,Tamnar,403
+03267,Raigarh,403
+03268,Pusour,403
+03269,Kharsia,403
+03270,Sarangarh,403
+03271,Baramkela,403
+03272,Katghora,404
+03273,Poundi-Uproda,404
+03274,Pali,404
+03275,Korba,404
+03276,Kartala,404
+03277,Janjgir,405
+03278,Akaltara,405
+03279,Baloda,405
+03280,Nawagarh,405
+03281,Champa,405
+03282,Sakti,405
+03283,Pamgarh,405
+03284,Dabhra,405
+03285,Malkharoda,405
+03286,Jaijaipur,405
+03287,Pendra Road Gorella,406
+03288,Marwahi,406
+03289,Pendra,406
+03290,Lormi,406
+03291,Kota,406
+03292,Mungeli,406
+03293,Pathariya,406
+03294,Takhatpur,406
+03295,Bilaspur,406
+03296,Masturi,406
+03297,Bilha,406
+03298,Kawardha,407
+03299,Bodla,407
+03300,Sahaspur Lohara,407
+03301,Pandariya,407
+03302,Chhuikhadan,408
+03303,Khairagarh,408
+03304,Dongargarh,408
+03305,Rajnandgaon,408
+03306,Chhuriya,408
+03307,Dongargaon,408
+03308,Mohla,408
+03309,Manpur,408
+03310,Ambagarh,408
+03311,Nawagarh,409
+03312,Bemetara,409
+03313,Saja,409
+03314,Thanakhamria,409
+03315,Berla,409
+03316,Dhamdha,409
+03317,Durg,409
+03318,Patan,409
+03319,Gunderdehi,409
+03320,Dondi Luhara,409
+03321,Balod,409
+03322,Dondi,409
+03323,Gurur,409
+03324,Simga,410
+03325,Bhatapara,410
+03326,Baloda Bazar,410
+03327,Palari,410
+03328,Kasdol,410
+03329,Bilaigarh,410
+03330,Arang,410
+03331,Abhanpur,410
+03332,Raipur,410
+03333,Rajim,410
+03334,Tilda,410
+03335,Bindranavagarh(Gariyaband),410
+03336,Chhura,410
+03337,Mainpur,410
+03338,Deobhog,410
+03339,Basna,411
+03340,Saraipali,411
+03341,Mahasamund,411
+03342,Pithora,411
+03343,Bagbahra,411
+03344,Kurud,412
+03345,Magarlod,412
+03346,Dhamtari,412
+03347,Nagri,412
+03348,Charama,413
+03349,Bhanupratappur,413
+03350,Durgkondal,413
+03351,Kanker,413
+03352,Narharpur,413
+03353,Antagarh,413
+03354,Pakhanjur,413
+03355,Keskal,414
+03356,Bade Rajpur,414
+03357,Kondagaon,414
+03358,Makdi,414
+03359,Farasgaon,414
+03360,Jagdalpur,414
+03361,Lohandiguda,414
+03362,Bastanar,414
+03363,Bastar,414
+03364,Bakavand,414
+03365,Tokapal,414
+03366,Darbha,414
+03367,Narayanpur,415
+03368,Orchha,415
+03369,Dantewada,416
+03370,Gidam,416
+03371,Katekalyan,416
+03372,Kuakonda,416
+03373,Konta,416
+03374,Chhindgarh,416
+03375,Sukma,416
+03376,Bhopalpattnam,417
+03377,Usur,417
+03378,Bijapur,417
+03379,Bhairamgarh,417
+,,
+03722,Lakhpat,468
+03723,Rapar,468
+03724,Bhachau,468
+03725,Anjar,468
+03726,Bhuj,468
+03727,Nakhatrana,468
+03728,Abdasa,468
+03729,Mandvi,468
+03730,Mundra,468
+03731,Gandhidham,468
+03732,Vav,469
+03733,Tharad,469
+03734,Dhanera,469
+03735,Dantiwada,469
+03736,Amirgadh,469
+03737,Danta,469
+03738,Vadgam,469
+03739,Palanpur,469
+03740,Deesa,469
+03741,Deodar,469
+03742,Bhabhar,469
+03743,Kankrej,469
+03744,Santalpur,470
+03745,Radhanpur,470
+03746,Sidhpur,470
+03747,Patan,470
+03748,Harij,470
+03749,Sami,470
+03750,Chanasma,470
+03751,Satlasana,471
+03752,Kheralu,471
+03753,Unjha,471
+03754,Visnagar,471
+03755,Vadnagar,471
+03756,Vijapur,471
+03757,Mahesana,471
+03758,Becharaji,471
+03759,Kadi,471
+03760,Khedbrahma,472
+03761,Vijaynagar,472
+03762,Vadali,472
+03763,Idar,472
+03764,Bhiloda,472
+03765,Meghraj,472
+03766,Himatnagar,472
+03767,Prantij,472
+03768,Talod,472
+03769,Modasa,472
+03770,Dhansura,472
+03771,Malpur,472
+03772,Bayad,472
+03773,Kalol,473
+03774,Mansa,473
+03775,Gandhinagar,473
+03776,Dehgam,473
+03777,Mandal,474
+03778,Detroj-Rampura,474
+03779,Viramgam,474
+03780,Sanand,474
+03782,Daskroi,474
+03783,Dholka,474
+03784,Bavla,474
+03785,Ranpur,474
+03786,Barwala,474
+03787,Dhandhuka,474
+03788,Halvad,475
+03789,Dhrangadhra,475
+03790,Dasada,475
+03791,Lakhtar,475
+03792,Wadhwan,475
+03793,Muli,475
+03794,Chotila,475
+03795,Sayla,475
+03796,Chuda,475
+03797,Limbdi,475
+03798,Maliya,476
+03799,Morvi,476
+03800,Tankara,476
+03801,Wankaner,476
+03802,Paddhari,476
+03803,Rajkot,476
+03804,Lodhika,476
+03805,Kotda Sangani,476
+03806,Jasdan,476
+03807,Gondal,476
+03808,Jamkandorna,476
+03809,Upleta,476
+03810,Dhoraji,476
+03811,Jetpur,476
+03812,Okhamandal,477
+03813,Khambhalia,477
+03814,Jamnagar,477
+03815,Jodiya,477
+03816,Dhrol,477
+03817,Kalavad,477
+03818,Lalpur,477
+03819,Kalyanpur,477
+03820,Bhanvad,477
+03821,Jamjodhpur,477
+03822,Porbandar,478
+03823,Ranavav,478
+03824,Kutiyana,478
+03825,Manavadar,479
+03826,Vanthali,479
+03827,Junagadh,479
+03828,Bhesan,479
+03829,Visavadar,479
+03830,Mendarda,479
+03831,Keshod,479
+03832,Mangrol,479
+03833,Malia,479
+03834,Talala,479
+03835,Patan-Veraval,479
+03836,Sutrapada,479
+03837,Kodinar,479
+03838,Una,479
+03839,Kunkavav Vadia,480
+03840,Babra,480
+03841,Lathi,480
+03842,Lilia,480
+03843,Amreli,480
+03844,Bagasara,480
+03845,Dhari,480
+03846,Savar Kundla,480
+03847,Khambha,480
+03848,Jafrabad,480
+03849,Rajula,480
+03850,Botad,481
+03851,Vallabhipur,481
+03852,Gadhada,481
+03853,Umrala,481
+03854,Bhavnagar,481
+03855,Ghogha,481
+03856,Sihor,481
+03857,Gariadhar,481
+03858,Palitana,481
+03859,Talaja,481
+03860,Mahuva,481
+03861,Tarapur,482
+03862,Sojitra,482
+03863,Umreth,482
+03864,Anand,482
+03865,Petlad,482
+03866,Khambhat,482
+03867,Borsad,482
+03868,Anklav,482
+03869,Kapadvanj,483
+03870,Virpur,483
+03871,Balasinor,483
+03872,Kathlal,483
+03873,Mehmedabad,483
+03874,Kheda,483
+03875,Matar,483
+03876,Nadiad,483
+03877,Mahudha,483
+03878,Thasra,483
+03879,Khanpur,484
+03880,Kadana,484
+03881,Santrampur,484
+03882,Lunawada,484
+03883,Shehera,484
+03884,Morwa (Hadaf),484
+03885,Godhra,484
+03886,Kalol,484
+03887,Ghoghamba,484
+03888,Halol,484
+03889,Jambughoda,484
+03890,Fatepura,485
+03891,Jhalod,485
+03892,Limkheda,485
+03893,Dohad,485
+03894,Garbada,485
+03895,Devgadbaria,485
+03896,Dhanpur,485
+03897,Savli,486
+03898,Vadodara,486
+03899,Vaghodia,486
+03900,Jetpur Pavi,486
+03901,Chhota Udaipur,486
+03902,Kavant,486
+03903,Nasvadi,486
+03904,Sankheda,486
+03905,Dabhoi,486
+03906,Padra,486
+03907,Karjan,486
+03908,Sinor,486
+03909,Tilakwada,487
+03910,Nandod,487
+03911,Dediapada,487
+03912,Sagbara,487
+03913,Jambusar,488
+03914,Amod,488
+03915,Vagra,488
+03916,Bharuch,488
+03917,Jhagadia,488
+03918,Anklesvar,488
+03919,Hansot,488
+03920,Valia,488
+03921,The Dangs,489
+03922,Navsari,490
+03923,Jalalpore,490
+03924,Gandevi,490
+03925,Chikhli,490
+03926,Bansda,490
+03927,Valsad,491
+03928,Dharampur,491
+03929,Pardi,491
+03930,Kaprada,491
+03931,Umbergaon,491
+03932,Olpad,492
+03933,Mangrol,492
+03934,Umarpada,492
+03935,Mandvi,492
+03936,Kamrej,492
+03938,Chorasi,492
+03939,Palsana,492
+03940,Bardoli,492
+03941,Mahuva,492
+03942,Nizar,493
+03943,Uchchhal,493
+03944,Songadh,493
+03945,Vyara,493
+03946,Valod,493
+03947,Diu,494
+03948,Daman,495
+03949,Dadra & Nagar Haveli,496
+03950,Akkalkuwa,497
+03951,Akrani,497
+03952,Talode,497
+03953,Shahade,497
+03954,Nandurbar,497
+03955,Nawapur,497
+03956,Shirpur,498
+03957,Sindkhede,498
+03958,Sakri,498
+03959,Dhule,498
+03960,Chopda,499
+03961,Yawal,499
+03962,Raver,499
+03963,Muktainagar,499
+03964,Bodvad,499
+03965,Bhusawal,499
+03966,Jalgaon,499
+03967,Erandol,499
+03968,Dharangaon,499
+03969,Amalner,499
+03970,Parola,499
+03971,Bhadgaon,499
+03972,Chalisgaon,499
+03973,Pachora,499
+03974,Jamner,499
+03975,Jalgaon (Jamod),500
+03976,Sangrampur,500
+03977,Shegaon,500
+03978,Nandura,500
+03979,Malkapur,500
+03980,Motala,500
+03981,Khamgaon,500
+03982,Mehkar,500
+03983,Chikhli,500
+03984,Buldana,500
+03985,Deolgaon Raja,500
+03986,Sindkhed Raja,500
+03987,Lonar,500
+03988,Telhara,501
+03989,Akot,501
+03990,Balapur,501
+03991,Akola,501
+03992,Murtijapur,501
+03993,Patur,501
+03994,Barshitakli,501
+03995,Malegaon,502
+03996,Mangrulpir,502
+03997,Karanja,502
+03998,Manora,502
+03999,Washim,502
+04000,Risod,502
+04001,Dharni,503
+04002,Chikhaldara,503
+04003,Anjangaon Surji,503
+04004,Achalpur,503
+04005,Chandurbazar,503
+04006,Morshi,503
+04007,Warud,503
+04008,Teosa,503
+04009,Amravati,503
+04010,Bhatkuli,503
+04011,Daryapur,503
+04012,Nandgaon-Khandeshwar,503
+04013,Chandur Railway,503
+04014,Dhamangaon Railway,503
+04015,Ashti,504
+04016,Karanja,504
+04017,Arvi,504
+04018,Seloo,504
+04019,Wardha,504
+04020,Deoli,504
+04021,Hinganghat,504
+04022,Samudrapur,504
+04023,Narkhed,505
+04024,Katol,505
+04025,Kalameshwar,505
+04026,Savner,505
+04027,Parseoni,505
+04028,Ramtek,505
+04029,Mauda,505
+04030,Kamptee,505
+04031,Nagpur (Rural),505
+04033,Hingna,505
+04034,Umred,505
+04035,Kuhi,505
+04036,Bhiwapur,505
+04037,Tumsar,506
+04038,Mohadi,506
+04039,Bhandara,506
+04040,Sakoli,506
+04041,Lakhani,506
+04042,Pauni,506
+04043,Lakhandur,506
+04044,Tirora,507
+04045,Goregaon,507
+04046,Gondiya,507
+04047,Amgaon,507
+04048,Salekasa,507
+04049,Sadak-Arjuni,507
+04050,Arjuni Morgaon,507
+04051,Deori,507
+04052,Desaiganj (Vadasa),508
+04053,Armori,508
+04054,Kurkheda,508
+04055,Korchi,508
+04056,Dhanora,508
+04057,Gadchiroli,508
+04058,Chamorshi,508
+04059,Mulchera,508
+04060,Etapalli,508
+04061,Bhamragad,508
+04062,Aheri,508
+04063,Sironcha,508
+04064,Warora,509
+04065,Chimur,509
+04066,Nagbhir,509
+04067,Brahmapuri,509
+04068,Sawali,509
+04069,Sindewahi,509
+04070,Bhadravati,509
+04071,Chandrapur,509
+04072,Mul,509
+04073,Pombhurna,509
+04074,Ballarpur,509
+04075,Korpana,509
+04076,Jiwati,509
+04077,Rajura,509
+04078,Gondpipri,509
+04079,Ner,510
+04080,Babulgaon,510
+04081,Kalamb,510
+04082,Yavatmal,510
+04083,Darwha,510
+04084,Digras,510
+04085,Pusad,510
+04086,Umarkhed,510
+04087,Mahagaon,510
+04088,Arni,510
+04089,Ghatanji,510
+04090,Kelapur,510
+04091,Ralegaon,510
+04092,Maregaon,510
+04093,Zari-Jamani,510
+04094,Wani,510
+04095,Mahoor,511
+04096,Kinwat,511
+04097,Himayatnagar,511
+04098,Hadgaon,511
+04099,Ardhapur,511
+04100,Nanded,511
+04101,Mudkhed,511
+04102,Bhokar,511
+04103,Umri,511
+04104,Dharmabad,511
+04105,Biloli,511
+04106,Naigaon (Khairgaon),511
+04107,Loha,511
+04108,Kandhar,511
+04109,Mukhed,511
+04110,Deglur,511
+04111,Sengaon,512
+04112,Hingoli,512
+04113,Aundha (Nagnath),512
+04114,Kalamnuri,512
+04115,Basmath,512
+04116,Sailu,513
+04117,Jintur,513
+04118,Parbhani,513
+04119,Manwath,513
+04120,Pathri,513
+04121,Sonpeth,513
+04122,Gangakhed,513
+04123,Palam,513
+04124,Purna,513
+04125,Bhokardan,514
+04126,Jafferabad,514
+04127,Jalna,514
+04128,Badnapur,514
+04129,Ambad,514
+04130,Ghansawangi,514
+04131,Partur,514
+04132,Mantha,514
+04133,Kannad,515
+04134,Soegaon,515
+04135,Sillod,515
+04136,Phulambri,515
+04137,Aurangabad,515
+04138,Khuldabad,515
+04139,Vaijapur,515
+04140,Gangapur,515
+04141,Paithan,515
+04142,Surgana,516
+04143,Kalwan,516
+04144,Deola,516
+04145,Baglan,516
+04146,Malegaon,516
+04147,Nandgaon,516
+04148,Chandvad,516
+04149,Dindori,516
+04150,Peint,516
+04151,Trimbakeshwar,516
+04152,Nashik,516
+04153,Igatpuri,516
+04154,Sinnar,516
+04155,Niphad,516
+04156,Yevla,516
+04157,Talasari,517
+04158,Dahanu,517
+04159,Vikramgad,517
+04160,Jawhar,517
+04161,Mokhada,517
+04162,Vada,517
+04163,Palghar,517
+04164,Vasai,517
+04165,Thane,517
+04166,Bhiwandi,517
+04167,Shahapur,517
+04168,Kalyan,517
+04170,Ambarnath,517
+04171,Murbad,517
+04172,Uran,520
+04173,Panvel,520
+04174,Karjat,520
+04175,Khalapur,520
+04176,Pen,520
+04177,Alibag,520
+04178,Murud,520
+04179,Roha,520
+04180,Sudhagad,520
+04181,Mangaon,520
+04182,Tala,520
+04183,Shrivardhan,520
+04184,Mhasla,520
+04185,Mahad,520
+04186,Poladpur,520
+04187,Junnar,521
+04188,Ambegaon,521
+04189,Shirur,521
+04190,Khed,521
+04191,Mawal,521
+04192,Mulshi,521
+04193,Haveli,521
+04194,Pune City,521
+04195,Daund,521
+04196,Purandhar,521
+04197,Velhe,521
+04198,Bhor,521
+04199,Baramati,521
+04200,Indapur,521
+04201,Akola,522
+04202,Sangamner,522
+04203,Kopargaon,522
+04204,Rahta,522
+04205,Shrirampur,522
+04206,Nevasa,522
+04207,Shevgaon,522
+04208,Pathardi,522
+04209,Nagar,522
+04210,Rahuri,522
+04211,Parner,522
+04212,Shrigonda,522
+04213,Karjat,522
+04214,Jamkhed,522
+04215,Ashti,523
+04216,Patoda,523
+04217,Shirur (Kasar),523
+04218,Georai,523
+04219,Manjlegaon,523
+04220,Wadwani,523
+04221,Bid,523
+04222,Kaij,523
+04223,Dharur,523
+04224,Parli,523
+04225,Ambejogai,523
+04226,Latur,524
+04227,Renapur,524
+04228,Ahmadpur,524
+04229,Jalkot,524
+04230,Chakur,524
+04231,Shirur-Anantpal,524
+04232,Ausa,524
+04233,Nilanga,524
+04234,Deoni,524
+04235,Udgir,524
+04236,Paranda,525
+04237,Bhum,525
+04238,Washi,525
+04239,Kalamb,525
+04240,Osmanabad,525
+04241,Tuljapur,525
+04242,Lohara,525
+04243,Umarga,525
+04244,Karmala,526
+04245,Madha,526
+04246,Barshi,526
+04247,Solapur North,526
+04248,Mohol,526
+04249,Pandharpur,526
+04250,Malshiras,526
+04251,Sangole,526
+04252,Mangalvedhe,526
+04253,Solapur South,526
+04254,Akkalkot,526
+04255,Mahabaleshwar,527
+04256,Wai,527
+04257,Khandala,527
+04258,Phaltan,527
+04259,Man,527
+04260,Khatav,527
+04261,Koregaon,527
+04262,Satara,527
+04263,Jaoli,527
+04264,Patan,527
+04265,Karad,527
+04266,Mandangad,528
+04267,Dapoli,528
+04268,Khed,528
+04269,Chiplun,528
+04270,Guhagar,528
+04271,Ratnagiri,528
+04272,Sangameshwar,528
+04273,Lanja,528
+04274,Rajapur,528
+04275,Devgad,529
+04276,Vaibhavvadi,529
+04277,Kankavli,529
+04278,Malwan,529
+04279,Vengurla,529
+04280,Kudal,529
+04281,Sawantwadi,529
+04282,Dodamarg,529
+04283,Shahuwadi,530
+04284,Panhala,530
+04285,Hatkanangle,530
+04286,Shirol,530
+04287,Karvir,530
+04288,Bavda,530
+04289,Radhanagari,530
+04290,Kagal,530
+04291,Bhudargad,530
+04292,Ajra,530
+04293,Gadhinglaj,530
+04294,Chandgad,530
+04295,Shirala,531
+04296,Walwa,531
+04297,Palus,531
+04298,Kadegaon,531
+04299,Khanapur (Vita),531
+04300,Atpadi,531
+04301,Tasgaon,531
+04302,Miraj,531
+04303,Kavathemahankal,531
+04304,Jat,531
+04305,Tamsi,532
+04306,Adilabad,532
+04307,Jainad,532
+04308,Bela,532
+04309,Talamadugu,532
+04310,Gudihathnoor,532
+04311,Inderavelly,532
+04312,Narnoor,532
+04313,Kerameri,532
+04314,Wankdi,532
+04315,Sirpur (T),532
+04316,Kouthala,532
+04317,Bejjur,532
+04318,Kagaznagar,532
+04319,Asifabad,532
+04320,Jainoor,532
+04321,Utnoor,532
+04322,Ichoda,532
+04323,Bazarhathnoor,532
+04324,Boath,532
+04325,Neradigonda,532
+04326,Sirpur,532
+04327,Rebbana,532
+04328,Bhimini,532
+04329,Dahegaon,532
+04330,Vemanpalle,532
+04331,Nennal,532
+04332,Tandur,532
+04333,Tiryani,532
+04334,Jannaram,532
+04335,Kaddam (Peddur),532
+04336,Sarangapur,532
+04337,Kuntala,532
+04338,Kubeer,532
+04339,Bhainsa,532
+04340,Tanoor,532
+04341,Mudhole,532
+04342,Lokeswaram,532
+04343,Dilawarpur,532
+04344,Nirmal,532
+04345,Laxmanchanda,532
+04346,Mamda,532
+04347,Khanapur,532
+04348,Dandepalle,532
+04349,Kasipet,532
+04350,Bellampalle,532
+04351,Kotapalle,532
+04352,Mandamarri,532
+04353,Luxettipet,532
+04354,Mancherial,532
+04355,Jaipur,532
+04356,Chennur,532
+04357,Ranjal,533
+04358,Navipet,533
+04359,Nandipet,533
+04360,Armur,533
+04361,Balkonda,533
+04362,Mortad,533
+04363,Kammarpalle,533
+04364,Bheemgal,533
+04365,Velpur,533
+04366,Jakranpalle,533
+04367,Makloor,533
+04368,Nizamabad,533
+04369,Yedpalle,533
+04370,Bodhan,533
+04371,Kotgiri,533
+04372,Madnoor,533
+04373,Jukkal,533
+04374,Bichkunda,533
+04375,Birkoor,533
+04376,Varni,533
+04377,Dichpalle,533
+04378,Dharpalle,533
+04379,Sirkonda,533
+04380,Machareddy,533
+04381,Sadasivanagar,533
+04382,Gandhari,533
+04383,Banswada,533
+04384,Pitlam,533
+04385,Nizamsagar,533
+04386,Yellareddy,533
+04387,Nagareddipet,533
+04388,Lingampet,533
+04389,Tadwai,533
+04390,Kamareddy,533
+04391,Bhiknoor,533
+04392,Domakonda,533
+04393,Ibrahimpatnam,534
+04394,Mallapur,534
+04395,Raikal,534
+04396,Sarangapur,534
+04397,Dharmapuri,534
+04398,Velgatoor,534
+04399,Ramagundam,534
+04400,Kamanpur,534
+04401,Manthani,534
+04402,Kataram,534
+04403,Mahadevpur,534
+04404,Mutharam (Mahadevpur),534
+04405,Malharrao,534
+04406,Mutharam (Manthani),534
+04407,Srirampur,534
+04408,Peddapalle,534
+04409,Julapalle,534
+04410,Elgaid,534
+04411,Dharmaram,534
+04412,Gollapalle,534
+04413,Mallial,534
+04414,Jagtial,534
+04415,Medipalle,534
+04416,Koratla,534
+04417,Metpalle,534
+04418,Kathlapur,534
+04419,Chandurthi,534
+04420,Kodimial,534
+04421,Pegadapalle,534
+04422,Gangadhara,534
+04423,Ramadugu,534
+04424,Choppadandi,534
+04425,Sultanabad,534
+04426,Odela,534
+04427,Manakondur,534
+04428,Karimnagar,534
+04429,Boinpalle,534
+04430,Vemulawada,534
+04431,Konaraopeta,534
+04432,Yellareddipet,534
+04433,Gambhiraopet,534
+04434,Mustabad,534
+04435,Sircilla,534
+04436,Ellanthakunta,534
+04437,Bejjanki,534
+04438,Timmapur (Lmd Colony),534
+04439,Veenavanka,534
+04440,Jammikunta,534
+04441,Shankarapatnam,534
+04442,Chigurumamidi,534
+04443,Koheda,534
+04444,Husnabad,534
+04445,Saidapur,534
+04446,Huzurabad,534
+04447,Kamalapur,534
+04448,Bheemadevarpalle,534
+04449,Elkathurthi,534
+04450,Kangti,535
+04451,Manoor,535
+04452,Narayankhed,535
+04453,Kalher,535
+04454,Shankarampet (A),535
+04455,Papannapet,535
+04456,Medak,535
+04457,Ramayampet,535
+04458,Dubbak,535
+04459,Siddipet,535
+04460,Chinnakodur,535
+04461,Nangnoor,535
+04462,Kondapak,535
+04463,Thoguta,535
+04464,Mirdoddi,535
+04465,Doultabad,535
+04466,Chegunta,535
+04467,Shankarampet (R),535
+04468,Kulcharam,535
+04469,Tekmal,535
+04470,Alladurg,535
+04471,Regode,535
+04472,Raikode,535
+04473,Nyalkal,535
+04474,Zahirabad,535
+04475,Kohir,535
+04476,Jharasangam,535
+04477,Munpalle,535
+04478,Pulkal,535
+04479,Andole,535
+04480,Kowdipalle,535
+04481,Yeldurthy,535
+04482,Tupran,535
+04483,Gajwel,535
+04484,Jagdevpur,535
+04485,Wargal,535
+04486,Mulug,535
+04487,Shivampet,535
+04488,Narsapur,535
+04489,Hathnoora,535
+04490,Sadasivpet,535
+04491,Kondapur,535
+04492,Sangareddy,535
+04493,Jinnaram,535
+04494,Patancheru,535
+04495,Ramachandrapuram,535
+04501,Musheerabad,536
+04512,Marpalle,537
+04513,Mominpet,537
+04514,Nawabpet,537
+04515,Shankarpalle,537
+04518,Qutubullapur,537
+04519,Medchal,537
+04520,Shamirpet,537
+04522,Keesara,537
+04523,Ghatkesar,537
+04525,Hayathnagar,537
+04526,Saroornagar,537
+04527,Rajendranagar,537
+04528,Moinabad,537
+04529,Chevella,537
+04530,Vicarabad,537
+04531,Dharur,537
+04532,Bantwaram,537
+04533,Peddemul,537
+04534,Tandur,537
+04535,Basheerabad,537
+04536,Yelal,537
+04537,Doma,537
+04538,Gandeed,537
+04539,Kulkacharla,537
+04540,Pargi,537
+04541,Pudur,537
+04542,Shabad,537
+04543,Shamshabad,537
+04544,Maheswaram,537
+04545,Kandukur,537
+04546,Ibrahimpatnam,537
+04547,Manchal,537
+04548,Yacharam,537
+04549,Kodangal,538
+04550,Bomraspet,538
+04551,Kosgi,538
+04552,Doulathabad,538
+04553,Damaragidda,538
+04554,Maddur,538
+04555,Hanwada,538
+04556,Nawabpet,538
+04557,Balanagar,538
+04558,Kondurg,538
+04559,Farooqnagar,538
+04560,Kothur,538
+04561,Keshampet,538
+04562,Talakondapalle,538
+04563,Amangal,538
+04564,Madgul,538
+04565,Veldanda,538
+04566,Midjil,538
+04567,Jadcherla,538
+04568,Mahbubnagar,538
+04569,Koilkonda,538
+04570,Narayanpet,538
+04571,Utkoor,538
+04572,Dhanwada,538
+04573,Devarkadra,538
+04574,Bhoothpur,538
+04575,Thimmajipet,538
+04576,Kalwakurthy,538
+04577,Vangoor,538
+04578,Amrabad,538
+04579,Achampet,538
+04580,Uppununthala,538
+04581,Telkapalle,538
+04582,Tadoor,538
+04583,Nagarkurnool,538
+04584,Bijinapalle,538
+04585,Ghanpur,538
+04586,Addakal,538
+04587,Chinnachintakunta,538
+04588,Narva,538
+04589,Makthal,538
+04590,Maganoor,538
+04591,Dharur,538
+04592,Atmakur,538
+04593,Kothakota,538
+04594,Peddamandadi,538
+04595,Wanaparthy,538
+04596,Gopalpeta,538
+04597,Balmoor,538
+04598,Lingal,538
+04599,Peddakothapalle,538
+04600,Kodair,538
+04601,Pangal,538
+04602,Pebbair,538
+04603,Gadwal,538
+04604,Maldakal,538
+04605,Ghattu,538
+04606,Ieej,538
+04607,Itikyal,538
+04608,Veepangandla,538
+04609,Kollapur,538
+04610,Waddepalle,538
+04611,Manopad,538
+04612,Alampur,538
+04613,Bommalaramaram,539
+04614,M.Turkapalle,539
+04615,Rajapet,539
+04616,Yadagirigutta,539
+04617,Alair,539
+04618,Gundala,539
+04619,Thirumalgiri,539
+04620,Thungathurthi,539
+04621,Nuthankal,539
+04622,Atmakur (S),539
+04623,Jaji Reddi Gudem,539
+04624,Sali Gouraram,539
+04625,Mothkur,539
+04626,Atmakur (M),539
+04627,Valigonda,539
+04628,Bhongir,539
+04629,Bibinagar,539
+04630,Pochampalle,539
+04631,Choutuppal,539
+04632,Ramannapeta,539
+04633,Chityala,539
+04634,Narketpalle,539
+04635,Kattangoor,539
+04636,Nakrekal,539
+04637,Kethe Palle,539
+04638,Suryapet,539
+04639,Chivvemla,539
+04640,Mothey,539
+04641,Nadigudem,539
+04642,Munagala,539
+04643,Penpahad,539
+04644,Vemulapalle,539
+04645,Thipparthi,539
+04646,Nalgonda,539
+04647,Munugode,539
+04648,Narayanapur,539
+04649,Marriguda,539
+04650,Chintha Palle,539
+04651,Gundla Palle,539
+04652,Chandam Pet,539
+04653,Devarakonda,539
+04654,Nampalle,539
+04655,Chandur,539
+04656,Kangal,539
+04657,Gurrampode,539
+04658,Pedda Adiserla Palle,539
+04659,Peddavoora,539
+04660,Anumula,539
+04661,Nidamanur,539
+04662,Thripuraram,539
+04663,Dameracherla,539
+04664,Miryalaguda,539
+04665,Neredcherla,539
+04666,Garide Palle,539
+04667,Chilkur,539
+04668,Kodad,539
+04669,Huzurnagar,539
+04670,Mattam Palle,539
+04671,Mella Cheruvu,539
+04672,Cherial,540
+04673,Maddur,540
+04674,Bachannapet,540
+04675,Narmetta,540
+04676,Ghanpur (Station),540
+04677,Dharmasagar,540
+04678,Hasanparthy,540
+04679,Parkal,540
+04680,Mogullapalle,540
+04681,Chityal,540
+04682,Bhupalpalle,540
+04683,Ghanpur (Mulug),540
+04684,Venkatapur,540
+04685,Eturnagaram,540
+04686,Mangapet,540
+04687,Tadvai,540
+04688,Govindaraopet,540
+04689,Mulug,540
+04690,Regonda,540
+04691,Shayampet,540
+04692,Nallabelly,540
+04693,Duggondi,540
+04694,Atmakur,540
+04695,Hanamkonda,540
+04696,Zaffergadh,540
+04697,Palakurthi,540
+04698,Raghunathpalle,540
+04699,Jangaon,540
+04700,Lingalaghanpur,540
+04701,Devaruppula,540
+04702,Kodakandla,540
+04703,Raiparthy,540
+04704,Wardhannapet,540
+04705,Sangam,540
+04707,Geesugonda,540
+04708,Narsampet,540
+04709,Khanapur,540
+04710,Kothagudem,540
+04711,Gudur,540
+04712,Chennaraopet,540
+04713,Nekkonda,540
+04714,Parvathagiri,540
+04715,Thorrur,540
+04716,Nellikudur,540
+04717,Kesamudram,540
+04718,Mahabubabad,540
+04719,Narsimhulapet,540
+04720,Maripeda,540
+04721,Kuravi,540
+04722,Dornakal,540
+04723,Wazeed,541
+04724,Venkatapuram,541
+04725,Pinapaka,541
+04726,Cherla,541
+04727,Manuguru,541
+04728,Aswapuram,541
+04729,Dummugudem,541
+04730,Bhadrachalam,541
+04731,Kunavaram,541
+04732,Chintur,541
+04733,Vararamachandrapuram,541
+04734,Velairpadu,541
+04735,Kukunoor,541
+04736,Burgampahad,541
+04737,Palwancha,541
+04738,Kothagudem,541
+04739,Tekulapalle,541
+04740,Yellandu,541
+04741,Gundala,541
+04742,Bayyaram,541
+04743,Garla,541
+04744,Singareni,541
+04745,Kamepalle,541
+04746,Julurpad,541
+04747,Chandrugonda,541
+04748,Mulkalapalle,541
+04749,Aswaraopeta,541
+04750,Dammapeta,541
+04751,Sathupalle,541
+04752,Penuballi,541
+04753,Enkuru,541
+04754,Thirumalayapalem,541
+04755,Kusumanchi,541
+04756,Khammam (Rural),541
+04757,Khammam (Urban),541
+04758,Mudigonda,541
+04759,Nelakondapalle,541
+04760,Chinthakani,541
+04761,Konijerla,541
+04762,Tallada,541
+04763,Kallur,541
+04764,Wyra,541
+04765,Bonakal,541
+04766,Madhira,541
+04767,Yerrupalem,541
+04768,Vemsoor,541
+04769,Veeraghattam,542
+04770,Seethampeta,542
+04771,Bhamini,542
+04772,Kothuru,542
+04773,Pathapatnam,542
+04774,Meliaputti,542
+04775,Palasa,542
+04776,Mandasa,542
+04777,Kanchili,542
+04778,Ichchapuram,542
+04779,Kaviti,542
+04780,Sompeta,542
+04781,Vajrapukothuru,542
+04782,Nandigam,542
+04783,Hiramandalam,542
+04784,Palakonda,542
+04785,Vangara,542
+04786,Regidi Amadalavalasa,542
+04787,Lakshminarsupeta,542
+04788,Saravakota,542
+04789,Tekkali,542
+04790,Santhabommali,542
+04791,Kotabommali,542
+04792,Jalumuru,542
+04793,Sarubujjili,542
+04794,Burja,542
+04795,Santhakaviti,542
+04796,Rajam,542
+04797,Ganguvarisigadam,542
+04798,Amadalavalasa,542
+04799,Narasannapeta,542
+04800,Polaki,542
+04801,Gara,542
+04802,Srikakulam,542
+04803,Ponduru,542
+04804,Laveru,542
+04805,Ranastalam,542
+04806,Etcherla,542
+04807,Komarada,543
+04808,Gummalakshmipuram,543
+04809,Kurupam,543
+04810,Jiyyammavalasa,543
+04811,Garugubilli,543
+04812,Parvathipuram,543
+04813,Makkuva,543
+04814,Seethanagaram,543
+04815,Balijipeta,543
+04816,Bobbili,543
+04817,Salur,543
+04818,Pachipenta,543
+04819,Ramabhadrapuram,543
+04820,Badangi,543
+04821,Therlam,543
+04822,Merakamudidam,543
+04823,Dattirajeru,543
+04824,Mentada,543
+04825,Gajapathinagaram,543
+04826,Garividi,543
+04827,Cheepurupalle,543
+04828,Gurla,543
+04829,Bondapalle,543
+04830,Gantyada,543
+04831,Srungavarapukota,543
+04832,Vepada,543
+04833,Lakkavarapukota,543
+04834,Kothavalasa,543
+04835,Jami,543
+04836,Vizianagaram,543
+04837,Nellimarla,543
+04838,Pusapatirega,543
+04839,Denkada,543
+04840,Bhogapuram,543
+04841,Munchingi Puttu,544
+04842,Peda Bayalu,544
+04843,Dumbriguda,544
+04844,Araku Valley,544
+04845,Ananthagiri,544
+04846,Hukumpeta,544
+04847,Paderu,544
+04848,G.Madugula,544
+04849,Chintapalle,544
+04850,Gudem Kotha Veedhi,544
+04851,Koyyuru,544
+04852,Nathavaram,544
+04853,Golugonda,544
+04854,Narsipatnam,544
+04855,Rolugunta,544
+04856,Ravikamatham,544
+04857,Madugula,544
+04858,Cheedikada,544
+04859,Devarapalle,544
+04860,K.Kotapadu,544
+04861,Sabbavaram,544
+04862,Pendurthi,544
+04863,Anandapuram,544
+04864,Padmanabham,544
+04865,Bheemunipatnam,544
+04870,Paravada,544
+04871,Anakapalle,544
+04872,Chodavaram,544
+04873,Butchayyapeta,544
+04874,Kotauratla,544
+04875,Makavarapalem,544
+04876,Kasimkota,544
+04877,Munagapaka,544
+04878,Atchutapuram,544
+04879,Yelamanchili,544
+04880,Nakkapalle,544
+04881,Payakaraopeta,544
+04882,S.Rayavaram,544
+04883,Rambilli,544
+04884,Maredumilli,545
+04885,Devipatnam,545
+04886,Y. Ramavaram,545
+04887,Addateegala,545
+04888,Rajavommangi,545
+04889,Kotananduru,545
+04890,Tuni,545
+04891,Rowthulapudi,545
+04892,Sankhavaram,545
+04893,Yeleswaram,545
+04894,Gangavaram,545
+04895,Rampachodavaram,545
+04896,Seethanagaram,545
+04897,Gokavaram,545
+04898,Jaggampeta,545
+04899,Kirlampudi,545
+04900,Prathipadu,545
+04901,Thondangi,545
+04902,Gollaprolu,545
+04903,Peddapuram,545
+04904,Gandepalle,545
+04905,Korukonda,545
+04907,Rajahmundry Rural,545
+04908,Rajanagaram,545
+04909,Rangampeta,545
+04910,Samalkota,545
+04911,Pithapuram,545
+04912,Kothapalle,545
+04913,Kakinada (Rural),545
+04915,Pedapudi,545
+04916,Biccavolu,545
+04917,Anaparthy,545
+04918,Kadiam,545
+04919,Atreyapuram,545
+04920,Mandapeta,545
+04921,Rayavaram,545
+04922,Karapa,545
+04923,Kajuluru,545
+04924,Ramachandrapuram,545
+04925,Alamuru,545
+04926,Ravulapalem,545
+04927,Kothapeta,545
+04928,Kapileswarapuram,545
+04929,Pamarru,545
+04930,Thallarevu,545
+04931,I. Polavaram,545
+04932,Mummidivaram,545
+04933,Ainavilli,545
+04934,P.Gannavaram,545
+04935,Ambajipeta,545
+04936,Mamidikuduru,545
+04937,Razole,545
+04938,Malikipuram,545
+04939,Sakhinetipalle,545
+04940,Allavaram,545
+04941,Amalapuram,545
+04942,Uppalaguptam,545
+04943,Katrenikona,545
+04944,Chintalapudi,546
+04945,Lingapalem,546
+04946,T.Narasapuram,546
+04947,Jeelugu Milli,546
+04948,Buttayagudem,546
+04949,Polavaram,546
+04950,Tallapudi,546
+04951,Gopalapuram,546
+04952,Koyyalagudem,546
+04953,Jangareddigudem,546
+04954,Kamavarapukota,546
+04955,Dwarakatirumala,546
+04956,Nallajerla,546
+04957,Devarapalle,546
+04958,Kovvur,546
+04959,Chagallu,546
+04960,Nidadavole,546
+04961,Tadepalligudem,546
+04962,Unguturu,546
+04963,Bhimadole,546
+04964,Pedavegi,546
+04965,Pedapadu,546
+04966,Eluru,546
+04967,Denduluru,546
+04968,Nidamarru,546
+04969,Pentapadu,546
+04970,Undrajavaram,546
+04971,Peravali,546
+04972,Tanuku,546
+04973,Attili,546
+04974,Ganapavaram,546
+04975,Akividu,546
+04976,Undi,546
+04977,Palacoderu,546
+04978,Penumantra,546
+04979,Iragavaram,546
+04980,Penugonda,546
+04981,Achanta,546
+04982,Poduru,546
+04983,Veeravasaram,546
+04984,Bhimavaram,546
+04985,Kalla,546
+04986,Mogalthur,546
+04987,Narasapuram,546
+04988,Palacole,546
+04989,Yelamanchili,546
+04990,Vatsavai,547
+04991,Jaggayyapeta,547
+04992,Penuganchiprolu,547
+04993,Nandigama,547
+04994,Veerullapadu,547
+04995,Mylavaram,547
+04996,Gampalagudem,547
+04997,Tiruvuru,547
+04998,A.Konduru,547
+04999,Reddigudem,547
+05000,Vissannapet,547
+05001,Chatrai,547
+05002,Musunuru,547
+05003,Nuzvid,547
+05004,Bapulapadu,547
+05005,Agiripalle,547
+05006,G.Konduru,547
+05007,Kanchikacherla,547
+05008,Chandarlapadu,547
+05009,Ibrahimpatnam,547
+05011,Vijayawada (Rural),547
+05012,Gannavaram,547
+05013,Unguturu,547
+05014,Nandivada,547
+05015,Mandavalli,547
+05016,Kaikalur,547
+05017,Kalidindi,547
+05018,Kruthivennu,547
+05019,Bantumilli,547
+05020,Mudinepalle,547
+05021,Gudivada,547
+05022,Pedaparupudi,547
+05023,Kankipadu,547
+05024,Penamaluru,547
+05025,Thotlavalluru,547
+05026,Pamidimukkala,547
+05027,Vuyyuru,547
+05028,Pamarru,547
+05029,Gudlavalleru,547
+05030,Pedana,547
+05031,Guduru,547
+05032,Movva,547
+05033,Ghantasala,547
+05034,Machilipatnam,547
+05035,Challapalle,547
+05036,Mopidevi,547
+05037,Avanigadda,547
+05038,Nagayalanka,547
+05039,Koduru,547
+05040,Macherla,548
+05041,Veldurthi,548
+05042,Durgi,548
+05043,Rentachintala,548
+05044,Gurazala,548
+05045,Dachepalle,548
+05046,Karempudi,548
+05047,Piduguralla,548
+05048,Machavaram,548
+05049,Bellamkonda,548
+05050,Atchampet,548
+05051,Krosuru,548
+05052,Amaravathi,548
+05053,Thullur,548
+05054,Tadepalle,548
+05055,Mangalagiri,548
+05056,Tadikonda,548
+05057,Pedakurapadu,548
+05058,Sattenapalle,548
+05059,Rajupalem,548
+05060,Nekarikallu,548
+05061,Bollapalle,548
+05062,Vinukonda,548
+05063,Nuzendla,548
+05064,Savalyapuram H/O Kanamarlapudi,548
+05065,Ipur,548
+05066,Rompicherla,548
+05067,Narasaraopet,548
+05068,Muppalla,548
+05069,Nadendla,548
+05070,"Chilakaluripet
+ H/O.Purushotha Patnam",548
+05071,Edlapadu,548
+05072,Phirangipuram,548
+05073,Medikonduru,548
+05074,Guntur,548
+05075,Pedakakani,548
+05076,Duggirala,548
+05077,Kollipara,548
+05078,Tenali,548
+05079,Chebrolu,548
+05080,Vatticherukuru,548
+05081,Prathipadu,548
+05082,Pedanandipadu,548
+05083,Kakumanu,548
+05084,Ponnur,548
+05085,Tsundur,548
+05086,Amruthalur,548
+05087,Vemuru,548
+05088,Kollur,548
+05089,Bhattiprolu,548
+05090,Cherukupalle H/O Arumbaka,548
+05091,Pittalavanipalem,548
+05092,Karlapalem,548
+05093,Bapatla,548
+05094,Nizampatnam,548
+05095,Nagaram,548
+05096,Repalle,548
+05097,Yerragondapalem,549
+05098,Pullalacheruvu,549
+05099,Tripuranthakam,549
+05100,Dornala,549
+05101,Peda  Araveedu,549
+05102,Donakonda,549
+05103,Kurichedu,549
+05104,Santhamaguluru,549
+05105,Ballikurava,549
+05106,Martur,549
+05107,Yeddana Pudi,549
+05108,Parchur,549
+05109,Karamchedu,549
+05110,Inkollu,549
+05111,Janakavarampanguluru,549
+05112,Addanki,549
+05113,Mundlamuru,549
+05114,Darsi,549
+05115,Markapur,549
+05116,Ardhaveedu,549
+05117,Cumbum,549
+05118,Tarlupadu,549
+05119,Konakanamitla,549
+05120,Podili,549
+05121,Thallur,549
+05122,Korisapadu,549
+05123,Chirala,549
+05124,Vetapalem,549
+05125,Chinaganjam,549
+05126,Naguluppala Padu,549
+05127,Maddipadu,549
+05128,Chimakurthi,549
+05129,Marripudi,549
+05130,Hanumanthuni Padu,549
+05131,Bestawaripeta,549
+05132,Racherla,549
+05133,Giddalur,549
+05134,Komarolu,549
+05135,Veligandla,549
+05136,Kanigiri,549
+05137,Kondapi,549
+05138,Santhanuthala Padu,549
+05139,Ongole,549
+05140,Kotha Patnam,549
+05141,Tangutur,549
+05142,Zarugumilli,549
+05143,Ponnaluru,549
+05144,Pedacherlo Palle,549
+05145,Chandra Sekhara Puram,549
+05146,Pamur,549
+05147,Voletivaripalem,549
+05148,Kandukur,549
+05149,Singarayakonda,549
+05150,Lingasamudram,549
+05151,Gudluru,549
+05152,Ulavapadu,549
+05153,Seetharamapuram,550
+05154,Udayagiri,550
+05155,Varikuntapadu,550
+05156,Kondapuram,550
+05157,Jaladanki,550
+05158,Kavali,550
+05159,Bogole,550
+05160,Kaligiri,550
+05161,Vinjamur,550
+05162,Duttalur,550
+05163,Marripadu,550
+05164,Atmakur,550
+05165,Anumasamudrampeta,550
+05166,Dagadarthi,550
+05167,Allur,550
+05168,Vidavalur,550
+05169,Kodavalur,550
+05170,Buchireddipalem,550
+05171,Sangam,550
+05172,Chejerla,550
+05173,Ananthasagaram,550
+05174,Kaluvoya,550
+05175,Rapur,550
+05176,Podalakur,550
+05177,Nellore,550
+05178,Kovur,550
+05179,Indukurpet,550
+05180,Thotapalligudur,550
+05181,Muthukur,550
+05182,Venkatachalam,550
+05183,Manubolu,550
+05184,Gudur,550
+05185,Sydapuram,550
+05186,Dakkili,550
+05187,Venkatagiri,550
+05188,Balayapalle,550
+05189,Ojili,550
+05190,Chillakur,550
+05191,Kota,550
+05192,Vakadu,550
+05193,Chittamur,550
+05194,Naidupet,550
+05195,Pellakur,550
+05196,Doravarisatram,550
+05197,Sullurpeta,550
+05198,Tada,550
+05199,Kondapuram,551
+05200,Mylavaram,551
+05201,Peddamudium,551
+05202,Rajupalem,551
+05203,Duvvur,551
+05204,S.Mydukur,551
+05205,Brahmamgarimattam,551
+05206,Sri Avadhutha Kasinayana,551
+05207,Kalasapadu,551
+05208,Porumamilla,551
+05209,B.Kodur,551
+05210,Badvel,551
+05211,Gopavaram,551
+05212,Khajipet,551
+05213,Chapad,551
+05214,Proddatur,551
+05215,Jammalamadugu,551
+05216,Muddanur,551
+05217,Simhadripuram,551
+05218,Lingala,551
+05219,Pulivendla,551
+05220,Vemula,551
+05221,Thondur,551
+05222,Veerapunayunipalle,551
+05223,Yerraguntla,551
+05224,Kamalapuram,551
+05225,Vallur,551
+05226,Chennur,551
+05227,Atlur,551
+05228,Vontimitta,551
+05229,Sidhout,551
+05231,Chinthakommadinne,551
+05232,Pendlimarri,551
+05233,Vempalle,551
+05234,Chakrayapet,551
+05235,Galiveedu,551
+05236,Chinnamandem,551
+05237,Sambepalle,551
+05238,T Sundupalle,551
+05239,Rayachoti,551
+05240,Lakkireddipalle,551
+05241,Ramapuram,551
+05242,Veeraballe,551
+05243,Nandalur,551
+05244,Penagalur,551
+05245,Chitvel,551
+05246,Rajampet,551
+05247,Pullampeta,551
+05248,Obulavaripalle,551
+05249,Kodur,551
+05250,Mantralayam,552
+05251,Kosigi,552
+05252,Kowthalam,552
+05253,Pedda Kadubur,552
+05254,Yemmiganur,552
+05255,Nandavaram,552
+05256,C.Belagal,552
+05257,Gudur,552
+05258,Kallur,552
+05259,Kurnool,552
+05260,Nandikotkur,552
+05261,Pagidyala,552
+05262,Jupadu Bungalow,552
+05263,Kothapalle,552
+05264,Srisailam,552
+05265,Atmakur,552
+05266,Pamulapadu,552
+05267,Midthur,552
+05268,Orvakal,552
+05269,Kodumur,552
+05270,Gonegandla,552
+05271,Adoni,552
+05272,Holagunda,552
+05273,Halaharvi,552
+05274,Alur,552
+05275,Aspari,552
+05276,Devanakonda,552
+05277,Krishnagiri,552
+05278,Veldurthi,552
+05279,Bethamcherla,552
+05280,Panyam,552
+05281,Gadivemula,552
+05282,Velgode,552
+05283,Bandi Atmakur,552
+05284,Nandyal,552
+05285,Mahanandi,552
+05286,Sirvel,552
+05287,Gospadu,552
+05288,Banaganapalle,552
+05289,Dhone,552
+05290,Pattikonda,552
+05291,Chippagiri,552
+05292,Maddikera (East),552
+05293,Tuggali,552
+05294,Peapally,552
+05295,Owk,552
+05296,Koilkuntla,552
+05297,Rudravaram,552
+05298,Allagadda,552
+05299,Dornipadu,552
+05300,Sanjamala,552
+05301,Kolimigundla,552
+05302,Uyyalawada,552
+05303,Chagalamarri,552
+05304,D.Hirehal,553
+05305,Rayadurg,553
+05306,Kanekal,553
+05307,Bommanahal,553
+05308,Vidapanakal,553
+05309,Guntakal,553
+05310,Gooty,553
+05311,Peddavadugur,553
+05312,Yadiki,553
+05313,Tadpatri,553
+05314,Peddapappur,553
+05315,Pamidi,553
+05316,Vajrakarur,553
+05317,Uravakonda,553
+05318,Beluguppa,553
+05319,Gummagatta,553
+05320,Brahmasamudram,553
+05321,Kalyandurg,553
+05322,Atmakur,553
+05323,Kudair,553
+05324,Garladinne,553
+05325,Singanamala,553
+05326,Putlur,553
+05327,Yellanur,553
+05328,Narpala,553
+05329,Bukkaraya Samudram,553
+05330,Anantapur,553
+05331,Raptadu,553
+05332,Settur,553
+05333,Kundurpi,553
+05334,Kambadur,553
+05335,Kanaganapalle,553
+05336,Dharmavaram,553
+05337,Bathalapalle,553
+05338,Tadimarri,553
+05339,Mudigubba,553
+05340,Talupula,553
+05341,Nambulipulikunta,553
+05342,Gandlapenta,553
+05343,Kadiri,553
+05344,Nallamada,553
+05345,Bukkapatnam,553
+05346,Kothacheruvu,553
+05347,Chennekothapalle,553
+05348,Ramagiri,553
+05349,Roddam,553
+05350,Madakasira,553
+05351,Amarapuram,553
+05352,Gudibanda,553
+05353,Rolla,553
+05354,Agali,553
+05355,Parigi,553
+05356,Penukonda,553
+05357,Puttaparthi,553
+05358,Obuladevaracheruvu,553
+05359,Nallacheruvu,553
+05360,Tanakal,553
+05361,Amadagur,553
+05362,Gorantla,553
+05363,Somandepalle,553
+05364,Hindupur,553
+05365,Lepakshi,553
+05366,Chilamathur,553
+05367,Mulakalacheruvu,554
+05368,Thamballapalle,554
+05369,Peddamandyam,554
+05370,Gurramkonda,554
+05371,Kalakada,554
+05372,Kambhamvaripalle,554
+05373,Rompicherla,554
+05374,Yerravaripalem,554
+05375,Tirupati (Rural),554
+05376,Renigunta,554
+05377,Yerpedu,554
+05378,Srikalahasti,554
+05379,Thottambedu,554
+05380,Buchinaidu Kandriga,554
+05381,Varadaiahpalem,554
+05382,K.V.B.Puram,554
+05383,Tirupati (Urban),554
+05384,Chandragiri,554
+05385,Chinnagottigallu,554
+05386,Pileru,554
+05387,Kalikiri,554
+05388,Valmikipuram,554
+05389,Kurabalakota,554
+05390,Pedda Thippasamudram,554
+05391,B.Kothakota,554
+05392,Madanapalle,554
+05393,Nimmanapalle,554
+05394,Sodam,554
+05395,Pulicherla,554
+05396,Pakala,554
+05397,Vedurukuppam,554
+05398,Ramachandrapuram,554
+05399,Vadamalapeta,554
+05400,Narayanavanam,554
+05401,Pichatur,554
+05402,Satyavedu,554
+05403,Nagalapuram,554
+05404,Nindra,554
+05405,Vijayapuram,554
+05406,Nagari,554
+05407,Puttur,554
+05408,Karvetinagar,554
+05409,Penumuru,554
+05410,Puthalapattu,554
+05411,Irala,554
+05412,Somala,554
+05413,Chowdepalle,554
+05414,Ramasamudram,554
+05415,Punganur,554
+05416,Peddapanjani,554
+05417,Gangavaram,554
+05418,Thavanampalle,554
+05419,Srirangarajapuram,554
+05420,Gangadhara Nellore,554
+05421,Chittoor,554
+05422,Palamaner,554
+05423,Baireddipalle,554
+05424,Venkatagirikota,554
+05425,Santhipuram,554
+05426,Gudupalle,554
+05427,Kuppam,554
+05428,Ramakuppam,554
+05429,Bangarupalem,554
+05430,Yadamarri,554
+05431,Gudipala,554
+05432,Palasamudram,554
+05433,Chikodi,555
+05434,Athni,555
+05435,Raybag,555
+05436,Gokak,555
+05437,Hukeri,555
+05438,Belgaum,555
+05439,Khanapur,555
+05440,Sampgaon,555
+05441,Parasgad,555
+05442,Ramdurg,555
+05443,Jamkhandi,556
+05444,Bilgi,556
+05445,Mudhol,556
+05446,Badami,556
+05447,Bagalkot,556
+05448,Hungund,556
+05449,Bijapur,557
+05450,Indi,557
+05451,Sindgi,557
+05452,Basavana Bagevadi,557
+05453,Muddebihal,557
+05454,Basavakalyan,558
+05455,Bhalki,558
+05456,Aurad,558
+05457,Bidar,558
+05458,Homnabad,558
+05459,Lingsugur,559
+05460,Devadurga,559
+05461,Raichur,559
+05462,Manvi,559
+05463,Sindhnur,559
+05464,Yelbarga,560
+05465,Kushtagi,560
+05466,Gangawati,560
+05467,Koppal,560
+05468,Nargund,561
+05469,Ron,561
+05470,Gadag,561
+05471,Shirhatti,561
+05472,Mundargi,561
+05473,Dharwad,562
+05474,Navalgund,562
+05475,Hubli,562
+05476,Kalghatgi,562
+05477,Kundgol,562
+05478,Karwar,563
+05479,Supa,563
+05480,Haliyal,563
+05481,Yellapur,563
+05482,Mundgod,563
+05483,Sirsi,563
+05484,Ankola,563
+05485,Kumta,563
+05486,Siddapur,563
+05487,Honavar,563
+05488,Bhatkal,563
+05489,Shiggaon,564
+05490,Savanur,564
+05491,Hangal,564
+05492,Haveri,564
+05493,Byadgi,564
+05494,Hirekerur,564
+05495,Ranibennur,564
+05496,Hadagalli,565
+05497,Hagaribommanahalli,565
+05498,Hospet,565
+05499,Siruguppa,565
+05500,Bellary,565
+05501,Sandur,565
+05502,Kudligi,565
+05503,Molakalmuru,566
+05504,Challakere,566
+05505,Chitradurga,566
+05506,Holalkere,566
+05507,Hosdurga,566
+05508,Hiriyur,566
+05509,Harihar,567
+05510,Harapanahalli,567
+05511,Jagalur,567
+05512,Davanagere,567
+05513,Honnali,567
+05514,Channagiri,567
+05515,Sagar,568
+05516,Sorab,568
+05517,Shikarpur,568
+05518,Hosanagara,568
+05519,Tirthahalli,568
+05520,Shimoga,568
+05521,Bhadravati,568
+05522,Kundapura,569
+05523,Udupi,569
+05524,Karkal,569
+05525,Sringeri,570
+05526,Koppa,570
+05527,Narasimharajapura,570
+05528,Tarikere,570
+05529,Kadur,570
+05530,Chikmagalur,570
+05531,Mudigere,570
+05532,Chiknayakanhalli,571
+05533,Sira,571
+05534,Pavagada,571
+05535,Madhugiri,571
+05536,Koratagere,571
+05537,Tumkur,571
+05538,Gubbi,571
+05539,Tiptur,571
+05540,Turuvekere,571
+05541,Kunigal,571
+05542,Bangalore North,572
+05543,Bangalore South,572
+05544,Bangalore East,572
+05545,Anekal,572
+05546,Krishnarajpet,573
+05547,Nagamangala,573
+05548,Pandavapura,573
+05549,Shrirangapattana,573
+05550,Mandya,573
+05551,Maddur,573
+05552,Malavalli,573
+05553,Sakleshpur,574
+05554,Belur,574
+05555,Arsikere,574
+05556,Hassan,574
+05557,Alur,574
+05558,Arkalgud,574
+05559,Hole Narsipur,574
+05560,Channarayapatna,574
+05561,Mangalore,575
+05562,Bantval,575
+05563,Beltangadi,575
+05564,Puttur,575
+05565,Sulya,575
+05566,Madikeri,576
+05567,Somvarpet,576
+05568,Virajpet,576
+05569,Piriyapatna,577
+05570,Hunsur,577
+05571,Krishnarajanagara,577
+05572,Mysore,577
+05573,Heggadadevankote,577
+05574,Nanjangud,577
+05575,Tirumakudal - Narsipur,577
+05576,Gundlupet,578
+05577,Chamarajanagar,578
+05578,Yelandur,578
+05579,Kollegal,578
+05580,Aland,579
+05581,Afzalpur,579
+05582,Gulbarga,579
+05583,Chincholi,579
+05584,Sedam,579
+05585,Chitapur,579
+05586,Jevargi,579
+05587,Shorapur,580
+05588,Shahpur,580
+05589,Yadgir,580
+05590,Srinivaspur,581
+05591,Kolar,581
+05592,Malur,581
+05593,Bangarapet,581
+05594,Mulbagal,581
+05595,Gauribidanur,582
+05596,Chikkaballapura,582
+05597,Gudibanda,582
+05598,Bagepalli,582
+05599,Sidlaghatta,582
+05600,Chintamani,582
+05601,Nelamangala,583
+05602,Dod Ballapur,583
+05603,Devanahalli,583
+05604,Hosakote,583
+05605,Magadi,584
+05606,Ramanagara,584
+05607,Channapatna,584
+05608,Kanakapura,584
+05609,Pernem,585
+05610,Bardez,585
+05611,Tiswadi,585
+05612,Bicholim,585
+05613,Satari,585
+05614,Ponda,585
+05615,Mormugao,586
+05616,Salcete,586
+05617,Quepem,586
+05618,Sanguem,586
+05619,Canacona,586
+05620,Amini,587
+05621,Bitra,587
+05622,Chetlat,587
+05623,Kiltan,587
+05624,Kadmat,587
+05625,Kavaratti,587
+05626,Agatti,587
+05627,Andrott,587
+05628,Kalpeni,587
+05629,Minicoy,587
+05630,Kasaragod,588
+05631,Hosdurg,588
+05632,Taliparamba,589
+05633,Kannur,589
+05634,Thalassery,589
+05635,Mananthavady,590
+05636,Sulthanbathery,590
+05637,Vythiri,590
+05638,Vadakara,591
+05639,Quilandy,591
+05640,Kozhikode,591
+05641,Ernad,592
+05642,Nilambur,592
+05643,Perinthalmanna,592
+05644,Tirur,592
+05645,Tirurangadi,592
+05646,Ponnani,592
+05647,Ottappalam,593
+05648,Mannarkad,593
+05649,Palakkad,593
+05650,Chittur,593
+05651,Alathur,593
+05652,Talappilly,594
+05653,Chavakkad,594
+05654,Thrissur,594
+05655,Kodungallur,594
+05656,Mukundapuram,594
+05657,Kunnathunad,595
+05658,Aluva,595
+05659,Paravur,595
+05660,Kochi,595
+05661,Kanayannur,595
+05662,Muvattupuzha,595
+05663,Kothamangalam,595
+05664,Devikulam,596
+05665,Udumbanchola,596
+05666,Thodupuzha,596
+05667,Peerumade,596
+05668,Meenachil,597
+05669,Vaikom,597
+05670,Kottayam,597
+05671,Changanassery,597
+05672,Kanjirappally,597
+05673,Cherthala,598
+05674,Ambalappuzha,598
+05675,Kuttanad,598
+05676,Karthikappally,598
+05677,Chengannur,598
+05678,Mavelikkara,598
+05679,Thiruvalla,599
+05680,Mallappally,599
+05681,Ranni,599
+05682,Kozhenchery,599
+05683,Adoor,599
+05684,Karunagappally,600
+05685,Kunnathur,600
+05686,Pathanapuram,600
+05687,Kottarakkara,600
+05688,Kollam,600
+05689,Chirayinkeezhu,601
+05690,Nedumangad,601
+05691,Thiruvananthapuram,601
+05692,Neyyattinkara,601
+05693,Gummidipoondi,602
+05694,Ponneri,602
+05695,Uthukkottai,602
+05696,Tiruttani,602
+05697,Pallipattu,602
+05698,Thiruvallur,602
+05699,Poonamallee,602
+05700,Ambattur,602
+05701,Mathavaram,602
+05702,Sriperumbudur,604
+05703,Tambaram,604
+05704,Alandur,604
+05705,Sholinganallur,604
+05706,Chengalpattu,604
+05707,Kancheepuram,604
+05708,Uthiramerur,604
+05709,Tirukalukundram,604
+05710,Maduranthakam,604
+05711,Cheyyur,604
+05712,Gudiyatham,605
+05713,Katpadi,605
+05714,Wallajah,605
+05715,Arakonam,605
+05716,Arcot,605
+05717,Vellore,605
+05718,Vaniyambadi,605
+05719,Ambur,605
+05720,Tirupathur,605
+05721,Arani,606
+05722,Cheyyar,606
+05723,Vandavasi,606
+05724,Polur,606
+05725,Chengam,606
+05726,Thandrampet,606
+05727,Tiruvannamalai,606
+05728,Gingee,607
+05729,Tindivanam,607
+05730,Vanur,607
+05731,Viluppuram,607
+05732,Tirukkoyilur,607
+05733,Sankarapuram,607
+05734,Kallakkurichi,607
+05735,Ulundurpettai,607
+05736,Mettur,608
+05737,Omalur,608
+05738,Edappadi,608
+05739,Sankari,608
+05740,Salem,608
+05741,Yercaud,608
+05742,Vazhapadi,608
+05743,Attur,608
+05744,Gangavalli,608
+05745,Tiruchengode,609
+05746,Rasipuram,609
+05747,Namakkal,609
+05748,Paramathi-Velur,609
+05749,Sathyamangalam,610
+05750,Bhavani,610
+05751,Gobichettipalayam,610
+05752,Perundurai,610
+05753,Erode,610
+05754,Panthalur,611
+05755,Gudalur,611
+05756,Udhagamandalam,611
+05757,Kotagiri,611
+05758,Coonoor,611
+05759,Kundah,611
+05760,Palani,612
+05761,Oddanchatram,612
+05762,Vedasandur,612
+05763,Natham,612
+05764,Dindigul,612
+05765,Attur,612
+05766,Kodaikanal,612
+05767,Nilakkottai,612
+05768,Aravakurichi,613
+05769,Karur,613
+05770,Krishnarayapuram,613
+05771,Kulithalai,613
+05772,Kadavur,613
+05773,Thottiyam,614
+05774,Musiri,614
+05775,Thuraiyur,614
+05776,Manachanallur,614
+05777,Lalgudi,614
+05778,Srirangam,614
+05779,Tiruchirappalli,614
+05780,Thiruverumbur,614
+05781,Manapparai,614
+05782,Veppanthattai,615
+05783,Perambalur,615
+05784,Kunnam,615
+05785,Sendurai,616
+05786,Udayarpalayam,616
+05787,Ariyalur,616
+05788,Panruti,617
+05789,Cuddalore,617
+05790,Kurinjipadi,617
+05791,Chidambaram,617
+05792,Kattumannarkoil,617
+05793,Virudhachalam,617
+05794,Tittakudi,617
+05795,Sirkali,618
+05796,Mayiladuthurai,618
+05797,Kuthalam,618
+05798,Tharangambadi,618
+05799,Nagapattinam,618
+05800,Kilvelur,618
+05801,Thirukkuvalai,618
+05802,Vedaranyam,618
+05803,Valangaiman,619
+05804,Kodavasal,619
+05805,Nannilam,619
+05806,Thiruvarur,619
+05807,Needamangalam,619
+05808,Mannargudi,619
+05809,Thiruthuraipoondi,619
+05810,Thiruvidaimarudur,620
+05811,Kumbakonam,620
+05812,Papanasam,620
+05813,Thiruvaiyaru,620
+05814,Thanjavur,620
+05815,Orathanadu,620
+05816,Pattukkottai,620
+05817,Peravurani,620
+05818,Iluppur,621
+05819,Kulathur,621
+05820,Gandarvakkottai,621
+05821,Pudukkottai,621
+05822,Thirumayam,621
+05823,Ponnamaravathi,621
+05824,Alangudi,621
+05825,Karambakudi,621
+05826,Aranthangi,621
+05827,Manamelkudi,621
+05828,Avudayarkoil,621
+05829,Tirupathur,622
+05830,Karaikkudi,622
+05831,Devakottai,622
+05832,Sivaganga,622
+05833,Manamadurai,622
+05834,Ilayangudi,622
+05835,Melur,623
+05836,Madurai North,623
+05837,Vadipatti,623
+05838,Usilampatti,623
+05839,Peraiyur,623
+05840,Thirumangalam,623
+05841,Madurai South,623
+05842,Bodinayakanur,624
+05843,Periyakulam,624
+05844,Theni,624
+05845,Uthamapalayam,624
+05846,Andipatti,624
+05847,Rajapalayam,625
+05848,Srivilliputhur,625
+05849,Sivakasi,625
+05850,Virudhunagar,625
+05851,Kariapatti,625
+05852,Tiruchuli,625
+05853,Aruppukkottai,625
+05854,Sattur,625
+05855,Tiruvadanai,626
+05856,Paramakudi,626
+05857,Mudukulathur,626
+05858,Kamuthi,626
+05859,Kadaladi,626
+05860,Ramanathapuram,626
+05861,Rameswaram,626
+05862,Kovilpatti,627
+05863,Ettayapuram,627
+05864,Vilathikulam,627
+05865,Ottapidaram,627
+05866,Thoothukkudi,627
+05867,Srivaikuntam,627
+05868,Tiruchendur,627
+05869,Sathankulam,627
+05870,Sivagiri,628
+05871,Sankarankoil,628
+05872,Veerakeralamputhur,628
+05873,Tenkasi,628
+05874,Shenkottai,628
+05875,Alangulam,628
+05876,Tirunelveli,628
+05877,Palayamkottai,628
+05878,Ambasamudram,628
+05879,Nanguneri,628
+05880,Radhapuram,628
+05881,Vilavancode,629
+05882,Kalkulam,629
+05883,Thovala,629
+05884,Agastheeswaram,629
+05885,Palakkodu,630
+05886,Harur,630
+05887,Pappireddipatti,630
+05888,Dharmapuri,630
+05889,Pennagaram,630
+05890,Hosur,631
+05891,Krishnagiri,631
+05892,Denkanikottai,631
+05893,Pochampalli,631
+05894,Uthangarai,631
+05895,Mettupalayam,632
+05896,Sulur,632
+05897,Coimbatore North,632
+05898,Coimbatore South,632
+05899,Pollachi,632
+05901,Kangeyam,633
+05902,Dharapuram,633
+05903,Avanashi,633
+05904,Tiruppur,633
+05905,Palladam,633
+05906,Udumalaipettai,633
+05907,Madathukulam,633
+05909,Puducherry Taluk,635
+05911,Villianur Taluk,635
+05912,Bahour Taluk,635
+05914,Karaikal Taluk,637
+05915,Thirunallar Taluk,637
+05916,Car Nicobar,638
+05917,Nancowry,638
+05918,Great Nicobar,638
+05919,Diglipur,639
+05920,Mayabunder,639
+05921,Rangat,639
+05922,Ferrargunj,640
+05923,Port Blair,640
+05924,Little Andaman,640

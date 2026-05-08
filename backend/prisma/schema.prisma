@@ -1,0 +1,93 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Country {
+  id        Int      @id @default(autoincrement())
+  name      String
+  code      String   @unique
+  states    State[]
+  createdAt DateTime @default(now())
+}
+
+model State {
+  id          Int        @id @default(autoincrement())
+  stateCode   String     @unique
+  stateName   String
+  countryId   Int
+  country     Country    @relation(fields: [countryId], references: [id])
+  districts   District[]
+  createdAt   DateTime   @default(now())
+}
+
+model District {
+  id             Int           @id @default(autoincrement())
+  districtCode   String        @unique
+  districtName   String
+  stateId        Int
+  state          State         @relation(fields: [stateId], references: [id])
+  subDistricts   SubDistrict[]
+  createdAt      DateTime      @default(now())
+}
+
+model SubDistrict {
+  id               Int        @id @default(autoincrement())
+  subDistrictCode  String     @unique
+  subDistrictName  String
+  districtId       Int
+  district         District   @relation(fields: [districtId], references: [id])
+  villages         Village[]
+  createdAt        DateTime   @default(now())
+}
+
+model Village {
+  id              Int         @id @default(autoincrement())
+  villageCode     String      @unique
+  villageName     String
+  subDistrictId   Int
+  subDistrict     SubDistrict @relation(fields: [subDistrictId], references: [id])
+
+  @@index([villageName])
+}
+
+model User {
+  id           Int       @id @default(autoincrement())
+  email        String    @unique
+  passwordHash String
+  businessName String?
+  planType String @default("FREE")
+  apiKeys      ApiKey[]
+  apiLogs      ApiLog[]
+  createdAt    DateTime  @default(now())
+}
+
+model ApiKey {
+  id            Int       @id @default(autoincrement())
+  apiKey        String    @unique
+  apiSecretHash String
+  userId        Int
+  user          User      @relation(fields: [userId], references: [id])
+  isActive      Boolean   @default(true)
+  createdAt     DateTime  @default(now())
+  apiLogs       ApiLog[]
+}
+
+model ApiLog {
+  id            Int       @id @default(autoincrement())
+  userId        Int
+  apiKeyId      Int
+  endpoint      String
+  responseTime  Int
+  statusCode    Int
+  createdAt     DateTime  @default(now())
+
+  user          User      @relation(fields: [userId], references: [id])
+  apiKey        ApiKey    @relation(fields: [apiKeyId], references: [id])
+
+  @@index([createdAt])
+}
