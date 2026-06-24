@@ -22,6 +22,7 @@ model State {
   countryId   Int
   country     Country    @relation(fields: [countryId], references: [id])
   districts   District[]
+  stateAccess UserStateAccess[]
   createdAt   DateTime   @default(now())
 }
 
@@ -60,9 +61,14 @@ model User {
   email        String    @unique
   passwordHash String
   businessName String?
+  phone        String?
+  gstNumber    String?
+  status       String    @default("PENDING_APPROVAL")
+  role         String    @default("USER")
   planType String @default("FREE")
   apiKeys      ApiKey[]
   apiLogs      ApiLog[]
+  stateAccess  UserStateAccess[]
   createdAt    DateTime  @default(now())
 }
 
@@ -73,6 +79,9 @@ model ApiKey {
   userId        Int
   user          User      @relation(fields: [userId], references: [id])
   isActive      Boolean   @default(true)
+  keyName       String    @default("Default Key")
+  expiresAt     DateTime?
+  lastUsedAt    DateTime?
   createdAt     DateTime  @default(now())
   apiLogs       ApiLog[]
 }
@@ -90,4 +99,15 @@ model ApiLog {
   apiKey        ApiKey    @relation(fields: [apiKeyId], references: [id])
 
   @@index([createdAt])
+}
+
+model UserStateAccess {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  stateId   Int
+  user      User     @relation(fields: [userId], references: [id])
+  state     State    @relation(fields: [stateId], references: [id])
+  createdAt DateTime @default(now())
+
+  @@unique([userId, stateId])
 }

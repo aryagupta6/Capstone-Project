@@ -1,0 +1,111 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Village API",
+    "version": "1.0.0",
+    "description": "Production-grade SaaS platform providing India's complete village-level geographical data REST API."
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000/v1",
+      "description": "Local Development Server"
+    }
+  ],
+  "paths": {
+    "/states": {
+      "get": {
+        "summary": "List all states",
+        "parameters": [
+          { "name": "page", "in": "query", "schema": { "type": "integer", "default": 1 } },
+          { "name": "limit", "in": "query", "schema": { "type": "integer", "default": 10 } }
+        ],
+        "responses": {
+          "200": { "description": "Successful response" }
+        },
+        "security": [{ "ApiKeyAuth": [] }]
+      }
+    },
+    "/states/{id}/districts": {
+      "get": {
+        "summary": "Get districts by state",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" }, "description": "State code or ID" },
+          { "name": "page", "in": "query", "schema": { "type": "integer", "default": 1 } },
+          { "name": "limit", "in": "query", "schema": { "type": "integer", "default": 10 } }
+        ],
+        "responses": {
+          "200": { "description": "Successful response" }
+        },
+        "security": [{ "ApiKeyAuth": [] }]
+      }
+    },
+    "/districts/{id}/subdistricts": {
+      "get": {
+        "summary": "Get sub-districts by district",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" }, "description": "District code or ID" },
+          { "name": "page", "in": "query", "schema": { "type": "integer", "default": 1 } },
+          { "name": "limit", "in": "query", "schema": { "type": "integer", "default": 10 } }
+        ],
+        "responses": {
+          "200": { "description": "Successful response" }
+        },
+        "security": [{ "ApiKeyAuth": [] }]
+      }
+    },
+    "/subdistricts/{id}/villages": {
+      "get": {
+        "summary": "Get villages by sub-district",
+        "parameters": [
+          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" }, "description": "Sub-district code or ID" },
+          { "name": "page", "in": "query", "schema": { "type": "integer", "default": 1 } },
+          { "name": "limit", "in": "query", "schema": { "type": "integer", "default": 10 } }
+        ],
+        "responses": {
+          "200": { "description": "Successful response" }
+        },
+        "security": [{ "ApiKeyAuth": [] }]
+      }
+    },
+    "/search": {
+      "get": {
+        "summary": "Search villages",
+        "parameters": [
+          { "name": "q", "in": "query", "required": true, "schema": { "type": "string" }, "description": "Search term" },
+          { "name": "page", "in": "query", "schema": { "type": "integer", "default": 1 } },
+          { "name": "limit", "in": "query", "schema": { "type": "integer", "default": 10 } }
+        ],
+        "responses": {
+          "200": { "description": "Successful response" }
+        },
+        "security": [{ "ApiKeyAuth": [] }]
+      }
+    },
+    "/autocomplete": {
+      "get": {
+        "summary": "Autocomplete suggestions",
+        "parameters": [
+          { "name": "q", "in": "query", "required": true, "schema": { "type": "string" }, "description": "Typeahead letters" }
+        ],
+        "responses": {
+          "200": { "description": "Successful response" }
+        },
+        "security": [{ "ApiKeyAuth": [] }]
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "ApiKeyAuth": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "x-api-key"
+      },
+      "ApiSecretAuth": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "x-api-secret"
+      }
+    }
+  }
+}

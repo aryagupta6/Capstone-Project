@@ -2,82 +2,88 @@ import { useState, useEffect } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 import api from '../utils/api';
 
-const COLORS = ['#3B82F6', '#10B981', '#F59E0B', '#EF4444'];
+const COLORS = ['#3B82F6', '#E5E7EB'];
 
 export default function Usage() {
-  const [usage, setUsage] = useState(null);
+  const [metrics, setMetrics] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState('');
 
   useEffect(() => {
-    fetchUsage();
+    fetchUsageData();
   }, []);
 
-  const fetchUsage = async () => {
+  const fetchUsageData = async () => {
     try {
-      const { data } = await api.get('/usage');
-      setUsage(data.data);
+      const { data } = await api.get('/dashboard/usage');
+      setMetrics(data.data);
     } catch (err) {
-      console.error('Failed to fetch usage:', err);
+      setError('Failed to fetch detailed API log metrics.');
+      console.error(err);
     } finally {
       setLoading(false);
     }
   };
 
   if (loading) {
-    return <div className="text-center py-12">Loading...</div>;
+    return <div className="text-center py-16 text-gray-500 font-medium">Analyzing API log streams...</div>;
   }
 
-  // Mock data for charts (in production, this would come from API)
-  const usageData = [
-    { date: 'Mon', requests: 45 },
-    { date: 'Tue', requests: 52 },
-    { date: 'Wed', requests: 38 },
-    { date: 'Thu', requests: 65 },
-    { date: 'Fri', requests: 48 },
-    { date: 'Sat', requests: 30 },
-    { date: 'Sun', requests: 25 },
-  ];
+  // Calculate remaining or set to infinite
+  const limit = metrics?.limit || 5000;
+  const used = metrics?.used24h || 0;
+  const remaining = limit === 1000000 ? 'Unlimited' : Math.max(limit - used, 0);
 
   const pieData = [
-    { name: 'Used', value: usage?.used || 0 },
-    { name: 'Remaining', value: typeof usage?.remaining === 'number' ? usage.remaining : 0 },
+    { name: 'Used', value: used },
+    { name: 'Remaining', value: typeof remaining === 'number' ? remaining : 0 },
   ];
 
   return (
-    <div className="px-4 py-6 sm:px-0">
-      <div className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">API Usage</h1>
-        <p className="mt-2 text-sm text-gray-600">Monitor your API consumption</p>
+    <div className="space-y-8">
+      <div>
+        <h1 className="text-3xl font-extrabold text-gray-900 tracking-tight">Consumption Analytics</h1>
+        <p className="mt-1.5 text-sm text-gray-500">Monitor your daily quota, response time trends, and call success rates.</p>
       </div>
 
-      <div className="grid grid-cols-1 gap-6 lg:grid-cols-2 mb-6">
-        <div className="bg-white shadow rounded-lg p-6">
-          <h2 className="text-lg font-medium text-gray-900 mb-4">Usage Overview</h2>
+      {error && (
+        <div className="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-md">
+          <p className="text-sm text-red-700">{error}</p>
+        </div>
+      )}
+
+      {/* Analytics widgets grid */}
+      <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
+        {/* Widget 1: Quota Breakdown */}
+        <div className="bg-white shadow rounded-lg border border-gray-100 p-6 space-y-6">
+          <h2 className="text-lg font-bold text-gray-900">Daily Quota Summary</h2>
+          
           <div className="space-y-4">
-            <div className="flex justify-between items-center">
-              <span className="text-sm text-gray-600">Plan Type</span>
-              <span className="text-sm font-medium text-gray-900">{usage?.plan}</span>
+            <div className="flex justify-between items-center text-sm">
+              <span className="text-gray-500 font-medium">Subscription Tier</span>
+              <span className="font-bold text-blue-600 tracking-wider">{metrics?.plan}</span>
             </div>
-            <div className="flex justify-between items-center">
-              <span className="text-sm text-gray-600">Requests Used (24h)</span>
-              <span className="text-sm font-medium text-gray-900">{usage?.used || 0}</span>
+            <div className="flex justify-between items-center text-sm">
+              <span className="text-gray-500 font-medium">Requests Used (24h)</span>
+              <span className="font-bold text-gray-800">{used.toLocaleString()}</span>
             </div>
-            <div className="flex justify-between items-center">
-              <span className="text-sm text-gray-600">Daily Limit</span>
-              <span className="text-sm font-medium text-gray-900">
-                {usage?.limit === Infinity ? 'Unlimited' : usage?.limit}
+            <div className="flex justify-between items-center text-sm">
+              <span className="text-gray-500 font-medium">Daily Limit</span>
+              <span className="font-bold text-gray-800">
+                {limit === 1000000 ? 'Unlimited' : limit.toLocaleString()}
               </span>
             </div>
-            <div className="flex justify-between items-center">
-              <span className="text-sm text-gray-600">Remaining</span>
-              <span className="text-sm font-medium text-gray-900">{usage?.remaining}</span>
+            <div className="flex justify-between items-center text-sm">
+              <span className="text-gray-500 font-medium">Remaining Quota</span>
+              <span className="font-bold text-green-600">{typeof remaining === 'number' ? remaining.toLocaleString() : remaining}</span>
             </div>
-            <div className="pt-4">
-              <div className="w-full bg-gray-200 rounded-full h-2.5">
+            
+            <div className="pt-2">
+              <div className="w-full bg-gray-100 rounded-full h-2.5">
                 <div
-                  className="bg-blue-600 h-2.5 rounded-full"
+                  className="bg-blue-600 h-2.5 rounded-full transition-all duration-500"
                   style={{
-                    width: `${usage?.limit === Infinity ? 0 : ((usage?.used || 0) / (usage?.limit || 1)) * 100}%`
+                    width: `${limit === 1000000 ? 0 : Math.min((used / limit) * 100, 100)}%`
                   }}
                 ></div>
               </div>
@@ -85,48 +91,61 @@ export default function Usage() {
           </div>
         </div>
 
-        <div className="bg-white shadow rounded-lg p-6">
-          <h2 className="text-lg font-medium text-gray-900 mb-4">Usage Distribution</h2>
-          <ResponsiveContainer width="100%" height={200}>
-            <PieChart>
-              <Pie
-                data={pieData}
-                cx="50%"
-                cy="50%"
-                labelLine={false}
-                label={({ name, percent }) => `${name}: ${(percent * 100).toFixed(0)}%`}
-                outerRadius={80}
-                fill="#8884d8"
-                dataKey="value"
-              >
-                {pieData.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                ))}
-              </Pie>
-              <Tooltip />
-            </PieChart>
-          </ResponsiveContainer>
+        {/* Widget 2: Pie chart visualization */}
+        <div className="bg-white shadow rounded-lg border border-gray-100 p-6 flex flex-col justify-between">
+          <h2 className="text-lg font-bold text-gray-900 mb-4">Daily Quota Allocation</h2>
+          {limit === 1000000 ? (
+            <div className="h-48 flex items-center justify-center text-sm text-gray-500 italic">
+              Unlimited Plan: Daily limits do not apply
+            </div>
+          ) : (
+            <div className="flex items-center justify-center h-48">
+              <ResponsiveContainer width="100%" height="100%">
+                <PieChart>
+                  <Pie
+                    data={pieData}
+                    cx="50%"
+                    cy="50%"
+                    innerRadius={55}
+                    outerRadius={75}
+                    paddingAngle={3}
+                    dataKey="value"
+                  >
+                    {pieData.map((entry, index) => (
+                      <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                    ))}
+                  </Pie>
+                  <Tooltip formatter={(value) => value.toLocaleString()} />
+                </PieChart>
+              </ResponsiveContainer>
+              <div className="absolute flex flex-col text-center">
+                <span className="text-lg font-bold text-gray-800">
+                  {Math.round((used / limit) * 100)}%
+                </span>
+                <span className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Used</span>
+              </div>
+            </div>
+          )}
         </div>
       </div>
 
-      <div className="bg-white shadow rounded-lg p-6">
-        <h2 className="text-lg font-medium text-gray-900 mb-4">Weekly Requests</h2>
-        <ResponsiveContainer width="100%" height={300}>
-          <LineChart data={usageData}>
-            <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="date" />
-            <YAxis />
-            <Tooltip />
-            <Line type="monotone" dataKey="requests" stroke="#3B82F6" strokeWidth={2} />
-          </LineChart>
-        </ResponsiveContainer>
-      </div>
-
-      <div className="mt-6 bg-blue-50 border border-blue-200 rounded-lg p-4">
-        <h3 className="text-sm font-medium text-blue-900 mb-2">💡 Tip</h3>
-        <p className="text-sm text-blue-700">
-          Upgrade your plan to get higher rate limits and access to premium features.
-        </p>
+      {/* Widget 3: Weekly requests line chart (Section 9.2) */}
+      <div className="bg-white shadow rounded-lg border border-gray-100 p-6">
+        <h2 className="text-lg font-bold text-gray-900 mb-4">Weekly API Call Timeline</h2>
+        <div className="h-80">
+          <ResponsiveContainer width="100%" height="100%">
+            <LineChart data={metrics?.timeline || []}>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#F3F4F6" />
+              <XAxis dataKey="date" stroke="#9CA3AF" fontSize={12} tickLine={false} />
+              <YAxis stroke="#9CA3AF" fontSize={12} tickLine={false} axisLine={false} />
+              <Tooltip 
+                contentStyle={{ background: '#FFFFFF', border: '1px solid #E5E7EB', borderRadius: '8px' }}
+                labelStyle={{ fontWeight: 'bold', color: '#111827' }}
+              />
+              <Line type="monotone" dataKey="requests" stroke="#3B82F6" strokeWidth={3} dot={{ r: 4 }} activeDot={{ r: 6 }} />
+            </LineChart>
+          </ResponsiveContainer>
+        </div>
       </div>
     </div>
   );

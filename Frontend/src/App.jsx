@@ -1,33 +1,68 @@
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import { BrowserRouter, Routes, Route, Navigate, Outlet } from 'react-router-dom';
+import useAuthStore from './utils/authStore';
+
+// Common pages
 import Login from './pages/Login';
 import Register from './pages/Register';
+import Layout from './components/Layout';
+
+// B2B Client pages
 import Dashboard from './pages/Dashboard';
 import ApiKeys from './pages/ApiKeys';
 import Usage from './pages/Usage';
 import Search from './pages/Search';
-import Layout from './components/Layout';
+import Docs from './pages/Docs';
+
+// Admin Panel pages
+import AdminDashboard from './pages/admin/AdminDashboard';
+import AdminUsers from './pages/admin/AdminUsers';
+import AdminLogs from './pages/admin/AdminLogs';
+import AdminVillages from './pages/admin/AdminVillages';
+
+// Guard Middleware: Verify dashboard user authentication (JWT check)
+function ProtectedRoute() {
+  const isAuthenticated = useAuthStore((state) => state.isAuthenticated);
+  return isAuthenticated ? <Outlet /> : <Navigate to="/login" replace />;
+}
+
+// Guard Middleware: Verify administrator role privileges
+function AdminRoute() {
+  const { isAuthenticated, user } = useAuthStore();
+  if (!isAuthenticated) return <Navigate to="/login" replace />;
+  return user?.role === 'ADMIN' ? <Outlet /> : <Navigate to="/" replace />;
+}
 
 function App() {
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-
-  useEffect(() => {
-    const apiKey = localStorage.getItem('apiKey');
-    setIsAuthenticated(!!apiKey);
-  }, []);
-
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/login" element={<Login setAuth={setIsAuthenticated} />} />
-        <Route path="/register" element={<Register setAuth={setIsAuthenticated} />} />
+        {/* Public login/register routes */}
+        <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
         
-        <Route element={<Layout />}>
-          <Route path="/" element={isAuthenticated ? <Dashboard /> : <Navigate to="/login" />} />
-          <Route path="/api-keys" element={isAuthenticated ? <ApiKeys /> : <Navigate to="/login" />} />
-          <Route path="/usage" element={isAuthenticated ? <Usage /> : <Navigate to="/login" />} />
-          <Route path="/search" element={isAuthenticated ? <Search /> : <Navigate to="/login" />} />
+        {/* B2B client protected routes */}
+        <Route element={<ProtectedRoute />}>
+          <Route element={<Layout />}>
+            <Route path="/" element={<Dashboard />} />
+            <Route path="/api-keys" element={<ApiKeys />} />
+            <Route path="/usage" element={<Usage />} />
+            <Route path="/search" element={<Search />} />
+            <Route path="/docs" element={<Docs />} />
+          </Route>
         </Route>
+
+        {/* System Administration protected routes */}
+        <Route element={<AdminRoute />}>
+          <Route element={<Layout />}>
+            <Route path="/admin" element={<AdminDashboard />} />
+            <Route path="/admin/users" element={<AdminUsers />} />
+            <Route path="/admin/logs" element={<AdminLogs />} />
+            <Route path="/admin/villages" element={<AdminVillages />} />
+          </Route>
+        </Route>
+
+        {/* Fallback redirect */}
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </BrowserRouter>
   );

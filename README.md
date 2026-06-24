@@ -52,6 +52,24 @@ capstone-project/
     └── normalized_data/
 ```
 
+## 🔑 Demo Credentials & Documentation
+
+To evaluate the system, you can use the pre-seeded admin account or register a new business user:
+
+### 👤 Administrative Panel Access
+- **URL**: `http://localhost:5173/admin`
+- **Email**: `admin@villageapi.com`
+- **Password**: `admin12345`
+
+### 🏢 B2B Client Registration
+- **URL**: `http://localhost:5173/register`
+- *Note: Registration requires a business email domain (e.g., `@yourcompany.com`). Public domains like Gmail/Yahoo are blocked.*
+
+### 📚 Interactive API Documentation (Swagger UI)
+- **URL**: `http://localhost:3000/docs`
+
+---
+
 ## Setup Instructions
 
 ### Backend Setup

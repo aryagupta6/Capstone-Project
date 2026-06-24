@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "name": "village-api",
+  "builds": [
+    {
+      "src": "backend/src/server.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "Frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/v1/(.*)",
+      "dest": "backend/src/server.js"
+    },
+    {
+      "src": "/v1/(.*)",
+      "dest": "backend/src/server.js"
+    },
+    {
+      "src": "/docs",
+      "dest": "backend/src/server.js"
+    },
+    {
+      "src": "/openapi.json",
+      "dest": "backend/src/server.js"
+    },
+    {
+      "src": "/assets/(.*)",
+      "dest": "Frontend/dist/assets/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "Frontend/dist/$1"
+    }
+  ]
+}

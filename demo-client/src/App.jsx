@@ -33,7 +33,7 @@ function App() {
 
   const fetchSuggestions = async (query) => {
     try {
-      const { data } = await axios.get(`/api/autocomplete?q=${encodeURIComponent(query)}`, {
+      const { data } = await axios.get(`/api/v1/autocomplete?q=${encodeURIComponent(query)}`, {
         headers: {
           'x-api-key': API_KEY,
           'x-api-secret': API_SECRET
@@ -52,7 +52,7 @@ function App() {
 
     // Fetch full details
     try {
-      const { data } = await axios.get(`/api/search?q=${encodeURIComponent(suggestion.label.split(' (')[0])}&limit=1`, {
+      const { data } = await axios.get(`/api/v1/search?q=${encodeURIComponent(suggestion.label.split(' (')[0])}&limit=1`, {
         headers: {
           'x-api-key': API_KEY,
           'x-api-secret': API_SECRET
